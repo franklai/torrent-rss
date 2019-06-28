@@ -43,7 +43,7 @@ class Parser {
     const html = await this.get_html();
 
     const magnet_links = this.parse_links(html);
-    const rss = this.convert_to_rss(magnet_links);
+    const rss = this.convert_to_rss(magnet_links.reverse());
 
     console.log(rss);
   }
