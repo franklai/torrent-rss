@@ -1,6 +1,10 @@
+const fs = require('fs');
+
 const got = require('got');
 const he = require('he');
 const RSS = require('rss');
+
+const config = require('./config');
 
 class Parser {
   constructor(url) {
@@ -38,7 +42,7 @@ class Parser {
       feed.item({
         title: name,
         url: link,
-        guid: link,
+        guid: link
       });
     });
 
@@ -51,15 +55,24 @@ class Parser {
     const magnetLinks = this.parseLinks(html);
     const rss = this.convertToRss(magnetLinks.reverse());
 
-    console.log(rss);
+    return rss;
   }
 }
 
 function main() {
-  const url = 'http://www.zimuxia.cn/portfolio/%E9%9F%A6%E9%A9%AE%E5%A4%A9';
-  const parser = new Parser(url);
+  const { links } = config;
 
-  parser.parse().then(() => {});
+  links.forEach(([title, url]) => {
+    console.log(`fetching url: ${url}`);
+    const parser = new Parser(url);
+
+    parser.parse().then((rss) => {
+      console.log(`write ${title} to rss`);
+      fs.writeFile(`${title}.rss`, rss, (err) => {
+        if (err) throw err;
+      });
+    });
+  });
 }
 
 if (require.main === module) {
