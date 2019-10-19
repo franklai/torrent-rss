@@ -3,16 +3,21 @@ const he = require('he');
 const RSS = require('rss');
 
 class Parser {
-  constructor(url) { this.url = url; }
-  async get_html() {
+  constructor(url) {
+    this.url = url;
+  }
+
+  async getHtml() {
     const resp = await got(this.url);
     return resp.body;
   }
-  parse_links(html) {
+
+  parseLinks(html) {
     const pattern = /magnet:[^"]+/g;
     return html.match(pattern).map(v => he.decode(v));
   }
-  get_filename(value) {
+
+  getFilename(value) {
     const pattern = /&dn=(.+?)&/;
     const matched = value.match(pattern);
     if (matched) {
@@ -20,30 +25,31 @@ class Parser {
     }
     return '';
   }
-  convert_to_rss(links) {
+
+  convertToRss(links) {
     const options = {
-      title: 'just a title',
-
+      title: 'just a title'
     };
-    const feed = new RSS(options)
+    const feed = new RSS(options);
 
-        for (const link of links) {
-      const name = this.get_filename(link);
+    links.forEach(link => {
+      const name = this.getFilename(link);
 
       feed.item({
         title: name,
         url: link,
         guid: link,
-      })
-    }
+      });
+    });
 
-    return feed.xml({indent: true});
+    return feed.xml({ indent: true });
   }
-  async parse() {
-    const html = await this.get_html();
 
-    const magnet_links = this.parse_links(html);
-    const rss = this.convert_to_rss(magnet_links.reverse());
+  async parse() {
+    const html = await this.getHtml();
+
+    const magnetLinks = this.parseLinks(html);
+    const rss = this.convertToRss(magnetLinks.reverse());
 
     console.log(rss);
   }
@@ -51,9 +57,9 @@ class Parser {
 
 function main() {
   const url = 'http://www.zimuxia.cn/portfolio/%E9%9F%A6%E9%A9%AE%E5%A4%A9';
-  parser = new Parser(url);
+  const parser = new Parser(url);
 
-  parser.parse().then(() => { });
+  parser.parse().then(() => {});
 }
 
 if (require.main === module) {
