@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 const fs = require('fs');
 
 const got = require('got');
@@ -7,8 +8,9 @@ const RSS = require('rss');
 const config = require('./config');
 
 class Parser {
-  constructor(url) {
+  constructor(url, title) {
     this.url = url;
+    this.title = title;
   }
 
   async getHtml() {
@@ -18,7 +20,7 @@ class Parser {
 
   parseLinks(html) {
     const pattern = /magnet:[^"]+/g;
-    return html.match(pattern).map(v => he.decode(v));
+    return html.match(pattern).map(he.decode);
   }
 
   getFilename(value) {
@@ -32,17 +34,17 @@ class Parser {
 
   convertToRss(links) {
     const options = {
-      title: 'just a title'
+      title: `${this.title} - from FIX subs`,
     };
     const feed = new RSS(options);
 
-    links.forEach(link => {
+    links.forEach((link) => {
       const name = this.getFilename(link);
 
       feed.item({
         title: name,
         url: link,
-        guid: link
+        guid: link,
       });
     });
 
@@ -64,7 +66,7 @@ function main() {
 
   links.forEach(([title, url]) => {
     console.log(`fetching url: ${url}`);
-    const parser = new Parser(url);
+    const parser = new Parser(url, title);
 
     parser.parse().then((rss) => {
       console.log(`write ${title} to rss`);
