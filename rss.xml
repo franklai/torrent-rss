@@ -1,4 +1,44 @@
-fetching url: http://www.zimuxia.cn/portfolio/doctor-x
-fetching url: http://www.zimuxia.cn/portfolio/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF
-write Doctor-X to rss
-write 俺の話は長い to rss
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[just a title]]></title>
+        <description><![CDATA[just a title]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 24 Feb 2019 13:37:51 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[idaten.E01.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:F128F201751D98918205FD773D69690E12C1A795&amp;dn=idaten.E01.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:F128F201751D98918205FD773D69690E12C1A795&amp;dn=idaten.E01.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E02.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:35D917022A5CB795FC2A60ACEC9BCDAF76BA781B&amp;dn=idaten.E02.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:35D917022A5CB795FC2A60ACEC9BCDAF76BA781B&amp;dn=idaten.E02.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E03.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:F23EEFC5DBE4B1756E52A1925C86972754F6706F&amp;dn=idaten.E03.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:F23EEFC5DBE4B1756E52A1925C86972754F6706F&amp;dn=idaten.E03.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E04.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:0BD1030D483A477704BC7D9CBAFA81F970479F64&amp;dn=idaten.E04.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:0BD1030D483A477704BC7D9CBAFA81F970479F64&amp;dn=idaten.E04.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E05.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:B432F77C773A2A17979363E81C741FB6BBC8E592&amp;dn=idaten.E05.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:B432F77C773A2A17979363E81C741FB6BBC8E592&amp;dn=idaten.E05.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E06.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:D79164AB13B6EC5C3C72A65FBB500698FE767CA7&amp;dn=idaten.E06.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:D79164AB13B6EC5C3C72A65FBB500698FE767CA7&amp;dn=idaten.E06.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
+        </item>
+        <item>
+            <title><![CDATA[idaten.E07.720p.FIX字幕侠&涅槃字幕组]]></title>
+            <link>magnet:?xt=urn:btih:7321DEE676F999F562EAEB3C027738ABFE060A6A&amp;dn=idaten.E07.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce&amp;tr=http%3a%2f%2ftr.cili001.com%3a8070%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+            <guid isPermaLink="false">magnet:?xt=urn:btih:7321DEE676F999F562EAEB3C027738ABFE060A6A&amp;dn=idaten.E07.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0%26%e6%b6%85%e6%a7%83%e5%ad%97%e5%b9%95%e7%bb%84&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce&amp;tr=http%3a%2f%2ftr.cili001.com%3a8070%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</guid>
+        </item>
+    </channel>
+</rss>
