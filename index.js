@@ -24,10 +24,19 @@ class Parser {
   }
 
   getFilename(value) {
-    const pattern = /&dn=(.+?)&/;
+    const pattern = /&dn=([^&]+)/;
     const matched = value.match(pattern);
     if (matched) {
       return decodeURIComponent(matched[1]);
+    }
+    return '';
+  }
+
+  getBTIH(value) {
+    const pattern = /btih:([a-fA-F0-9]+)/;
+    const matched = value.match(pattern);
+    if (matched) {
+      return matched[1];
     }
     return '';
   }
@@ -39,7 +48,7 @@ class Parser {
     const feed = new RSS(options);
 
     links.forEach((link) => {
-      const name = this.getFilename(link);
+      const name = this.getFilename(link) || this.getBTIH(link) || link;
 
       feed.item({
         title: name,
