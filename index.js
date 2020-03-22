@@ -1,80 +1,33 @@
 /* eslint-disable class-methods-use-this */
 const fs = require('fs');
 
-const got = require('got');
-const he = require('he');
-const RSS = require('rss');
+const { BilibiliParser } = require('./bilibili');
+const { FixSubParser } = require('./fix_sub');
 
 const config = require('./config');
 
-class Parser {
-  constructor(url, title) {
-    this.url = url;
-    this.title = title;
-  }
+function findParser(url) {
+  const urlKewords = [
+    ['zimuxia.cn/', FixSubParser],
+    ['bilibili.com/', BilibiliParser],
+  ];
 
-  async getHtml() {
-    const resp = await got(this.url);
-    return resp.body;
-  }
-
-  parseLinks(html) {
-    const pattern = /magnet:[^"]+/g;
-    return html.match(pattern).map(he.decode);
-  }
-
-  getFilename(value) {
-    const pattern = /&dn=([^&]+)/;
-    const matched = value.match(pattern);
-    if (matched) {
-      return decodeURIComponent(matched[1]);
+  // eslint-disable-next-line no-restricted-syntax
+  for (const [keyword, parser] of urlKewords) {
+    if (url.indexOf(keyword) >= 0) {
+      return parser;
     }
-    return '';
   }
-
-  getBTIH(value) {
-    const pattern = /btih:([a-fA-F0-9]+)/;
-    const matched = value.match(pattern);
-    if (matched) {
-      return matched[1];
-    }
-    return '';
-  }
-
-  convertToRss(links) {
-    const options = {
-      title: `${this.title} - from FIX subs`,
-    };
-    const feed = new RSS(options);
-
-    links.forEach((link) => {
-      const name = this.getFilename(link) || this.getBTIH(link) || link;
-
-      feed.item({
-        title: name,
-        url: link,
-        guid: link,
-      });
-    });
-
-    return feed.xml({ indent: true });
-  }
-
-  async parse() {
-    const html = await this.getHtml();
-
-    const magnetLinks = this.parseLinks(html);
-    const rss = this.convertToRss(magnetLinks.reverse());
-
-    return rss;
-  }
+  return null;
 }
 
 function outputToHtml(links) {
   const lines = [];
   lines.push('<!doctype html>');
   lines.push('<html>');
-  lines.push('<head><meta charset="utf-8"><title>Links to generated RSS</title></head>');
+  lines.push(
+    '<head><meta charset="utf-8"><title>Links to generated RSS</title></head>'
+  );
   lines.push('<body>');
   lines.push('<ul>');
   links.forEach(([title, url]) => {
@@ -100,6 +53,7 @@ function main() {
 
   links.forEach(([title, url]) => {
     console.log(`fetching url: ${url}`);
+    const Parser = findParser(url);
     const parser = new Parser(url, title);
 
     parser.parse().then((rss) => {

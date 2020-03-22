@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aloha字幕组 - from Bilibili.com]]></title>
+        <description><![CDATA[Aloha字幕组 - from Bilibili.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 22 Mar 2020 06:39:28 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.14 小泉孝太郎【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av96617447</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av96617447</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.07 吉沢亮 新田真剑佑【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av94797841</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av94797841</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.29坂口健太郎＆永野芽郁【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av93002360</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av93002360</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】2020体育馆之隆冬时节的潜入调查特辑【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av92542448</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av92542448</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.22 柚子 【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av91204797</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av91204797</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.15 森星 中岛健人 平野紫耀 【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av89491697</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av89491697</guid>
+        </item>
+        <item>
+            <title><![CDATA[【补档】【ARASHI】周四的岚朋友SP合集 19.11.14+20.01.03【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av89460005</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av89460005</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.08 横滨流星 要润【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av87872196</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av87872196</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.01 Matt【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av86360074</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av86360074</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.01.25 藤田妮可【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av85190882</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av85190882</guid>
+        </item>
+    </channel>
+</rss>
