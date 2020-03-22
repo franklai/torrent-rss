@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Aloha字幕组 - from Bilibili.com]]></title>
-        <description><![CDATA[Aloha字幕组 - from Bilibili.com]]></description>
+        <title><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></title>
+        <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2020 06:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2020 06:45:42 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.14 小泉孝太郎【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av96617447</link>
