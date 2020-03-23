@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2020 06:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2020 06:44:00 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200312 嘉宾：3点的女主角 牛奶男孩]]></title>
+            <link>https://www.bilibili.com/video/av98457719</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av98457719</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200305 嘉宾：炎鹏]]></title>
             <link>https://www.bilibili.com/video/av96432655</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200206 嘉宾：风间俊介 MIYAZON]]></title>
             <link>https://www.bilibili.com/video/av89592024</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av89592024</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200209 第8届什锦饭冠军赛]]></title>
-            <link>https://www.bilibili.com/video/av89591138</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av89591138</guid>
         </item>
     </channel>
 </rss>
