@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[有机星期一 - 月曜 - from Bilibili.com]]></title>
+        <description><![CDATA[有机星期一 - 月曜 - from Bilibili.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 26 Mar 2020 15:06:14 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200316【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av98277257</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av98277257</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200302【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av94773348</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av94773348</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200224【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av92448511</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av92448511</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200217【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av91042970</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av91042970</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200210【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av89252283</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av89252283</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200203【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av87683658</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av87683658</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200127【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av86199250</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av86199250</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200120【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av84974340</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av84974340</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20200113【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av83952999</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av83952999</guid>
+        </item>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20191223【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av81161154</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av81161154</guid>
+        </item>
+    </channel>
+</rss>
