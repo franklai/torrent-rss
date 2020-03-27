@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2020 15:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2020 06:46:25 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200315 谜题创作家（上）]]></title>
+            <link>https://www.bilibili.com/video/av99588093</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av99588093</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200312 嘉宾：3点的女主角 牛奶男孩]]></title>
             <link>https://www.bilibili.com/video/av98457719</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200213]]></title>
             <link>https://www.bilibili.com/video/av91321403</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av91321403</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200206 嘉宾：风间俊介 MIYAZON]]></title>
-            <link>https://www.bilibili.com/video/av89592024</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av89592024</guid>
         </item>
     </channel>
 </rss>
