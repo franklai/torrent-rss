@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2020 06:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2020 06:47:32 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.28 山口智子 【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av882580476</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av882580476</guid>
+        </item>
         <item>
             <title><![CDATA[【ARASHI】【字】决战五色之巅 2020.03.26【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av752523774</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【补档】【ARASHI】周四的岚朋友SP合集 19.11.14+20.01.03【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av89460005</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av89460005</guid>
-        </item>
-        <item>
-            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.08 横滨流星 要润【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av87872196</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av87872196</guid>
         </item>
     </channel>
 </rss>

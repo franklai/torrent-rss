@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2020 06:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2020 06:47:32 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200315 相叶学挖野菜山药]]></title>
+            <link>https://www.bilibili.com/video/av100396436</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av100396436</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200319 现役搞笑艺人冠军SP 第2夜]]></title>
+            <link>https://www.bilibili.com/video/av100398387</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av100398387</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200315 谜题创作家（上）]]></title>
             <link>https://www.bilibili.com/video/av99588093</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200220 嘉宾：市村正亲 森星]]></title>
             <link>https://www.bilibili.com/video/av92560991</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av92560991</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200216 服务区美食]]></title>
-            <link>https://www.bilibili.com/video/av91322038</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av91322038</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200213]]></title>
-            <link>https://www.bilibili.com/video/av91321403</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av91321403</guid>
         </item>
     </channel>
 </rss>
