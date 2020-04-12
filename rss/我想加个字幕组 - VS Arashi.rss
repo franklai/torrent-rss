@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[我想加个字幕组 - VS Arashi - from Bilibili.com]]></title>
+        <description><![CDATA[我想加个字幕组 - VS Arashi - from Bilibili.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 12 Apr 2020 12:13:44 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【我想加个】【字】200409木曜七时台的暴风雨之龙之道队]]></title>
+            <link>https://www.bilibili.com/video/av412636804</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av412636804</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200404山风九时台的吃喝游听故事]]></title>
+            <link>https://www.bilibili.com/video/av370018717</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av370018717</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】20200402木曜七时台的暴风雨之鬼牌竟然还有表演赛]]></title>
+            <link>https://www.bilibili.com/video/av582504977</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av582504977</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】20200330 CDTV ARASHI cut]]></title>
+            <link>https://www.bilibili.com/video/av710028822</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av710028822</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200326木曜七时台的暴风雨之今天唱独角戏]]></title>
+            <link>https://www.bilibili.com/video/av99723637</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av99723637</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200319木曜七时台的暴风雨之先死为敬]]></title>
+            <link>https://www.bilibili.com/video/av97828032</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av97828032</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200312木曜七时台的暴风雨之都是同龄人谁别难为谁]]></title>
+            <link>https://www.bilibili.com/video/av95903290</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av95903290</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200305木曜七时台的暴风雨之假面假面]]></title>
+            <link>https://www.bilibili.com/video/av94057585</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av94057585</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200227木曜七时台的暴风雨之冠军之战]]></title>
+            <link>https://www.bilibili.com/video/av92399990</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av92399990</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】200220木曜七时台的暴风雨之绝地掰头]]></title>
+            <link>https://www.bilibili.com/video/av90566282</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av90566282</guid>
+        </item>
+    </channel>
+</rss>

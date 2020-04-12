@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2020 06:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2020 12:13:45 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200405 朋友见面会]]></title>
+            <link>https://www.bilibili.com/video/av200131416</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av200131416</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200328 不认识出川哲郎的人]]></title>
             <link>https://www.bilibili.com/video/av582671249</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日晚赏樱20200319 现役搞笑艺人冠军SP 第2夜]]></title>
             <link>https://www.bilibili.com/video/av100398387</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av100398387</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200315 谜题创作家（上）]]></title>
-            <link>https://www.bilibili.com/video/av99588093</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av99588093</guid>
         </item>
     </channel>
 </rss>
