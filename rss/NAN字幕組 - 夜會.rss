@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2020 12:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2020 17:34:40 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200329 第9回学习挖掘竹笋]]></title>
+            <link>https://www.bilibili.com/video/av667743755</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av667743755</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200308 第七回学习挖山药]]></title>
+            <link>https://www.bilibili.com/video/av795147701</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av795147701</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200405 朋友见面会]]></title>
             <link>https://www.bilibili.com/video/av200131416</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【NAN字幕组】20200330 CDTV LIVE LIVE arashi cut]]></title>
             <link>https://www.bilibili.com/video/av710069857</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av710069857</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200315 相叶学挖野菜山药]]></title>
-            <link>https://www.bilibili.com/video/av100396436</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av100396436</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚赏樱20200319 现役搞笑艺人冠军SP 第2夜]]></title>
-            <link>https://www.bilibili.com/video/av100398387</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av100398387</guid>
         </item>
     </channel>
 </rss>
