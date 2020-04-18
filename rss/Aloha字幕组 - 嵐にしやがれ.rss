@@ -4,7 +4,7 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2020 17:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2020 06:42:34 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.04.11 中岛健人 平野紫耀 Hiromi 加藤谅 青山黛玛【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av200181366</link>
@@ -16,19 +16,9 @@
             <guid isPermaLink="false">https://www.bilibili.com/video/av540146714</guid>
         </item>
         <item>
-            <title><![CDATA[【ARASHI】【字】决战五色之巅 特别篇BABA岚 2020.04.02【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av667508811</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av667508811</guid>
-        </item>
-        <item>
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.28 山口智子 【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av882580476</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av882580476</guid>
-        </item>
-        <item>
-            <title><![CDATA[【ARASHI】【字】决战五色之巅 2020.03.26【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av752523774</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av752523774</guid>
         </item>
         <item>
             <title><![CDATA[【ARASHI】【字】2020体育馆之初春时节的户外运动特辑【Aloha字幕组】]]></title>
@@ -54,6 +44,16 @@
             <title><![CDATA[【ARASHI】【字】2020体育馆之隆冬时节的潜入调查特辑【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av92542448</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av92542448</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.22 柚子 【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av91204797</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av91204797</guid>
+        </item>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.15 森星 中岛健人 平野紫耀 【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av89491697</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av89491697</guid>
         </item>
     </channel>
 </rss>

@@ -4,21 +4,16 @@
         <description><![CDATA[我想加个字幕组 - VS Arashi - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2020 17:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2020 06:42:34 GMT</lastBuildDate>
         <item>
-            <title><![CDATA[【我想加个】【字】200409木曜七时台的暴风雨之龙之道队]]></title>
-            <link>https://www.bilibili.com/video/av412636804</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av412636804</guid>
+            <title><![CDATA[【我想加个】【字】200416木曜七时台的暴风雨之春季鬼牌环游世界]]></title>
+            <link>https://www.bilibili.com/video/av455367227</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av455367227</guid>
         </item>
         <item>
             <title><![CDATA[【我想加个】【字】200404山风九时台的吃喝游听故事]]></title>
             <link>https://www.bilibili.com/video/av370018717</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av370018717</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】20200402木曜七时台的暴风雨之鬼牌竟然还有表演赛]]></title>
-            <link>https://www.bilibili.com/video/av582504977</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av582504977</guid>
         </item>
         <item>
             <title><![CDATA[【我想加个】【字】20200330 CDTV ARASHI cut]]></title>
@@ -31,29 +26,34 @@
             <guid isPermaLink="false">https://www.bilibili.com/video/av99723637</guid>
         </item>
         <item>
-            <title><![CDATA[【我想加个】【字】200319木曜七时台的暴风雨之先死为敬]]></title>
-            <link>https://www.bilibili.com/video/av97828032</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av97828032</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】200312木曜七时台的暴风雨之都是同龄人谁别难为谁]]></title>
-            <link>https://www.bilibili.com/video/av95903290</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av95903290</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】200305木曜七时台的暴风雨之假面假面]]></title>
-            <link>https://www.bilibili.com/video/av94057585</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av94057585</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】200227木曜七时台的暴风雨之冠军之战]]></title>
-            <link>https://www.bilibili.com/video/av92399990</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av92399990</guid>
-        </item>
-        <item>
             <title><![CDATA[【我想加个】【字】200220木曜七时台的暴风雨之绝地掰头]]></title>
             <link>https://www.bilibili.com/video/av90566282</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av90566282</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】191128木曜七时台的暴风雨之橄榄球规则你知多少]]></title>
+            <link>https://www.bilibili.com/video/av77392269</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av77392269</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【多语】【大野智生贺】【重制已修订】つなぐ6语言7版本补档]]></title>
+            <link>https://www.bilibili.com/video/av77149647</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av77149647</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】191107跟着翔哥哥约个会之未公开的20周年岚会]]></title>
+            <link>https://www.bilibili.com/video/av74920556</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av74920556</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】191031跟着翔哥哥约个会之20周年的岚岚会]]></title>
+            <link>https://www.bilibili.com/video/av74352501</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av74352501</guid>
+        </item>
+        <item>
+            <title><![CDATA[【我想加个】【字】191012山风九时台的美食番&耍(搞)帅(笑)行之史无前例的嘉宾们]]></title>
+            <link>https://www.bilibili.com/video/av71052003</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av71052003</guid>
         </item>
     </channel>
 </rss>
