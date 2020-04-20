@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2020 06:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2020 06:43:26 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.04.18 十周年sp【Aloha字幕组】]]></title>
+            <link>https://www.bilibili.com/video/av795344481</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av795344481</guid>
+        </item>
         <item>
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.04.11 中岛健人 平野紫耀 Hiromi 加藤谅 青山黛玛【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av200181366</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.22 柚子 【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av91204797</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av91204797</guid>
-        </item>
-        <item>
-            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.15 森星 中岛健人 平野紫耀 【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av89491697</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av89491697</guid>
         </item>
     </channel>
 </rss>
