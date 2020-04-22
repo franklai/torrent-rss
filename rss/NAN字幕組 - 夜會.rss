@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2020 06:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2020 06:44:24 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶マナブ 20200405 从头开始制作陶器]]></title>
+            <link>https://www.bilibili.com/video/av412767732</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av412767732</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200409 嘉宾：绫野刚 星野源 麻生久美子 冈田健史]]></title>
             <link>https://www.bilibili.com/video/av370270571</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日晚赏樱20200326 嘉宾：木南晴夏 三吉彩花 森泉]]></title>
             <link>https://www.bilibili.com/video/av752575196</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av752575196</guid>
-        </item>
-        <item>
-            <title><![CDATA[【NAN字幕组】Johnny‘s World Happy LIVE Arashi part]]></title>
-            <link>https://www.bilibili.com/video/av412584922</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av412584922</guid>
         </item>
     </channel>
 </rss>
