@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2020 06:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2020 06:47:30 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[土曜团建日 剪辑特别篇 2020.4.25]]></title>
+            <link>https://www.bilibili.com/video/av327964663</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av327964663</guid>
+        </item>
         <item>
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.04.18 十周年sp【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av795344481</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【ARASHI】【字】2020体育馆之隆冬时节的潜入调查特辑【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av92542448</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av92542448</guid>
-        </item>
-        <item>
-            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.22 柚子 【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av91204797</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av91204797</guid>
         </item>
     </channel>
 </rss>
