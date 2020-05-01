@@ -4,7 +4,12 @@
         <description><![CDATA[我想加个字幕组 - VS Arashi - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2020 06:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2020 06:50:18 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【我想加个】【字】200430山雨欲来风满楼之埼玉再来袭]]></title>
+            <link>https://www.bilibili.com/video/av837949337</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av837949337</guid>
+        </item>
         <item>
             <title><![CDATA[【我想加个】【字】200416木曜七时台的暴风雨之春季鬼牌环游世界]]></title>
             <link>https://www.bilibili.com/video/av455367227</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【我想加个】【字】191031跟着翔哥哥约个会之20周年的岚岚会]]></title>
             <link>https://www.bilibili.com/video/av74352501</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av74352501</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】191012山风九时台的美食番&耍(搞)帅(笑)行之史无前例的嘉宾们]]></title>
-            <link>https://www.bilibili.com/video/av71052003</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av71052003</guid>
         </item>
     </channel>
 </rss>
