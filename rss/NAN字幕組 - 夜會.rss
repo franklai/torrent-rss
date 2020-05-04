@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2020 06:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2020 06:51:18 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200412 学习当季产地料理 生菜]]></title>
+            <link>https://www.bilibili.com/video/av625513646</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av625513646</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200412 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av285456945</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200328 不认识出川哲郎的人]]></title>
             <link>https://www.bilibili.com/video/av582671249</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av582671249</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200322 菜刀王子出差相叶亭]]></title>
-            <link>https://www.bilibili.com/video/av625126451</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av625126451</guid>
         </item>
     </channel>
 </rss>
