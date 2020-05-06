@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2020 06:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2020 06:53:01 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】教科书上学不到的日本超级难题 剪辑版 2020.05.04【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av370514801</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av370514801</guid>
+        </item>
         <item>
             <title><![CDATA[土曜团建日 剪辑特别篇第三弹 2020.05.02]]></title>
             <link>https://www.bilibili.com/video/av540528686</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.03.07 吉沢亮 新田真剑佑【Aloha字幕组】]]></title>
             <link>https://www.bilibili.com/video/av94797841</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av94797841</guid>
-        </item>
-        <item>
-            <title><![CDATA[【ARASHI】【字】周六的岚朋友 2020.02.29坂口健太郎＆永野芽郁【Aloha字幕组】]]></title>
-            <link>https://www.bilibili.com/video/av93002360</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av93002360</guid>
         </item>
     </channel>
 </rss>
