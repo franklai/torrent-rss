@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2020 06:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2020 06:54:17 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200430 杰尼斯未公开特辑]]></title>
+            <link>https://www.bilibili.com/video/av795573146</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av795573146</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200419 菜刀王子 寿司店相叶亭第3次开店]]></title>
+            <link>https://www.bilibili.com/video/av498113636</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av498113636</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200423 特别企划 宅家看夜会特别节目]]></title>
             <link>https://www.bilibili.com/video/av968002532</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200329 第9回学习挖掘竹笋]]></title>
             <link>https://www.bilibili.com/video/av667743755</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av667743755</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200308 第七回学习挖山药]]></title>
-            <link>https://www.bilibili.com/video/av795147701</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av795147701</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200405 朋友见面会]]></title>
-            <link>https://www.bilibili.com/video/av200131416</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av200131416</guid>
         </item>
     </channel>
 </rss>
