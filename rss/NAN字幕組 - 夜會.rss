@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2020 07:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2020 07:06:11 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200510 用店里的道具来做菜]]></title>
+            <link>https://www.bilibili.com/video/av498253603</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av498253603</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200514 宅家看夜会特别节目]]></title>
+            <link>https://www.bilibili.com/video/av710805813</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av710805813</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200419 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av838180655</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶マナブ 20200405 从头开始制作陶器]]></title>
             <link>https://www.bilibili.com/video/av412767732</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av412767732</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200409 嘉宾：绫野刚 星野源 麻生久美子 冈田健史]]></title>
-            <link>https://www.bilibili.com/video/av370270571</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av370270571</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日夜晚的樱20200402 嘉宾：多部未华子 大森南朋 濑户康史 趣里]]></title>
-            <link>https://www.bilibili.com/video/av582764773</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av582764773</guid>
         </item>
     </channel>
 </rss>
