@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2020 07:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2020 07:07:24 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200426 朋友见面会]]></title>
+            <link>https://www.bilibili.com/video/av413292619</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av413292619</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200507 宅家看夜会特别篇]]></title>
             <link>https://www.bilibili.com/video/av795862251</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200412 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av285456945</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av285456945</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200416 嘉宾：《半泽直树》剧组：片冈爱之助 今田美樱 户次重幸 南野阳子]]></title>
-            <link>https://www.bilibili.com/video/av497957843</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av497957843</guid>
         </item>
     </channel>
 </rss>
