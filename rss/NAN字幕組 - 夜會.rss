@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2020 07:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2020 07:10:51 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200524 在家做产地料理（2）]]></title>
+            <link>https://www.bilibili.com/video/av968405949</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av968405949</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】相叶学20200503 第9届小锅什锦饭冠军赛]]></title>
             <link>https://www.bilibili.com/video/av328385865</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200419 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av838180655</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av838180655</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200430 杰尼斯未公开特辑]]></title>
-            <link>https://www.bilibili.com/video/av795573146</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av795573146</guid>
         </item>
     </channel>
 </rss>
