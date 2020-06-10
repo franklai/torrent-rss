@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2020 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2020 07:14:28 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200528 专属于风间俊介的1小时]]></title>
+            <link>https://www.bilibili.com/video/av285955637</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av285955637</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200524 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av795979500</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200510 用店里的道具来做菜]]></title>
             <link>https://www.bilibili.com/video/av498253603</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av498253603</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200514 宅家看夜会特别节目]]></title>
-            <link>https://www.bilibili.com/video/av710805813</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av710805813</guid>
         </item>
     </channel>
 </rss>
