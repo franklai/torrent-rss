@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2020 07:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2020 07:16:51 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200607 能交到这样的朋友]]></title>
+            <link>https://www.bilibili.com/video/av838623521</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av838623521</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200604 樱井策划 第3弹：与樱井关系亲密的后辈们欢聚一堂]]></title>
             <link>https://www.bilibili.com/video/av413471229</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200426 朋友见面会]]></title>
             <link>https://www.bilibili.com/video/av413292619</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av413292619</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200510 用店里的道具来做菜]]></title>
-            <link>https://www.bilibili.com/video/av498253603</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av498253603</guid>
         </item>
     </channel>
 </rss>
