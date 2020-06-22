@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2020 07:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 07:20:58 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200611 嘉宾：指原莉乃]]></title>
+            <link>https://www.bilibili.com/video/av841090609</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av841090609</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200607 能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av838623521</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200426 菜刀王子 寿司店相叶亭第三次开店（下）]]></title>
             <link>https://www.bilibili.com/video/av285789788</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av285789788</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200426 朋友见面会]]></title>
-            <link>https://www.bilibili.com/video/av413292619</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av413292619</guid>
         </item>
     </channel>
 </rss>
