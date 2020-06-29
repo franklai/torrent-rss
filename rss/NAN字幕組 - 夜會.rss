@@ -4,26 +4,11 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2020 07:24:37 GMT</lastBuildDate>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200611 嘉宾：指原莉乃]]></title>
-            <link>https://www.bilibili.com/video/av841090609</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av841090609</guid>
-        </item>
+        <lastBuildDate>Mon, 29 Jun 2020 07:25:08 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200607 能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av838623521</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av838623521</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200604 樱井策划 第3弹：与樱井关系亲密的后辈们欢聚一堂]]></title>
-            <link>https://www.bilibili.com/video/av413471229</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av413471229</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200528 专属于风间俊介的1小时]]></title>
-            <link>https://www.bilibili.com/video/av285955637</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av285955637</guid>
         </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200524 如果能交到这样的朋友]]></title>
@@ -54,6 +39,21 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200426 菜刀王子 寿司店相叶亭第三次开店（下）]]></title>
             <link>https://www.bilibili.com/video/av285789788</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av285789788</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200426 朋友见面会]]></title>
+            <link>https://www.bilibili.com/video/av413292619</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av413292619</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200510 用店里的道具来做菜]]></title>
+            <link>https://www.bilibili.com/video/av498253603</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av498253603</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200514 宅家看夜会特别节目]]></title>
+            <link>https://www.bilibili.com/video/av710805813</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av710805813</guid>
         </item>
     </channel>
 </rss>
