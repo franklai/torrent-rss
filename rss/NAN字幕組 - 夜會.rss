@@ -4,7 +4,27 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2020 07:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2020 07:30:22 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200625]]></title>
+            <link>https://www.bilibili.com/video/av201307366</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av201307366</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200621 学习用电烤炉做产地料理]]></title>
+            <link>https://www.bilibili.com/video/av328821383</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av328821383</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200531 将喜欢的事情做到极致忘我之人]]></title>
+            <link>https://www.bilibili.com/video/av926362423</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av926362423</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200517 宅家小锅什锦饭冠军赛]]></title>
+            <link>https://www.bilibili.com/video/av456361058</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av456361058</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200621 做到极致的忘我之人]]></title>
             <link>https://www.bilibili.com/video/av413629306</link>
@@ -34,26 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200521]]></title>
             <link>https://www.bilibili.com/video/av498274881</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av498274881</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200517 如果能交到这样的朋友]]></title>
-            <link>https://www.bilibili.com/video/av583289478</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av583289478</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200426 菜刀王子 寿司店相叶亭第三次开店（下）]]></title>
-            <link>https://www.bilibili.com/video/av285789788</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av285789788</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200426 朋友见面会]]></title>
-            <link>https://www.bilibili.com/video/av413292619</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av413292619</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200510 用店里的道具来做菜]]></title>
-            <link>https://www.bilibili.com/video/av498253603</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av498253603</guid>
         </item>
     </channel>
 </rss>
