@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2020 07:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2020 07:34:14 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200702 上bai石meng歌 杰Ni斯WEST]]></title>
+            <link>https://www.bilibili.com/video/av413755932</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av413755932</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200607 宅家做万能酱料]]></title>
+            <link>https://www.bilibili.com/video/av286254097</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av286254097</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】赏樱会20200625]]></title>
             <link>https://www.bilibili.com/video/av201307366</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200524 在家做产地料理（2）]]></title>
             <link>https://www.bilibili.com/video/av968405949</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av968405949</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200503 第9届小锅什锦饭冠军赛]]></title>
-            <link>https://www.bilibili.com/video/av328385865</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av328385865</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】木曜日晚的樱20200521]]></title>
-            <link>https://www.bilibili.com/video/av498274881</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av498274881</guid>
         </item>
     </channel>
 </rss>
