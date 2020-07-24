@@ -4,26 +4,21 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2020 07:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2020 07:39:58 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200618]]></title>
+            <link>https://www.bilibili.com/video/av243989588</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av243989588</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】20200718 ＴＢＳ音楽の日 嵐 CUT]]></title>
             <link>https://www.bilibili.com/video/av968897993</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av968897993</guid>
         </item>
         <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200702 上bai石meng歌 杰Ni斯WEST]]></title>
-            <link>https://www.bilibili.com/video/av413755932</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av413755932</guid>
-        </item>
-        <item>
             <title><![CDATA[【No.A Name字幕组】相叶学20200607 宅家做万能酱料]]></title>
             <link>https://www.bilibili.com/video/av286254097</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av286254097</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200625]]></title>
-            <link>https://www.bilibili.com/video/av201307366</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av201307366</guid>
         </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】相叶学20200621 学习用电烤炉做产地料理]]></title>
@@ -54,6 +49,11 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200524 如果能交到这样的朋友]]></title>
             <link>https://www.bilibili.com/video/av795979500</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av795979500</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200524 在家做产地料理（2）]]></title>
+            <link>https://www.bilibili.com/video/av968405949</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av968405949</guid>
         </item>
     </channel>
 </rss>
