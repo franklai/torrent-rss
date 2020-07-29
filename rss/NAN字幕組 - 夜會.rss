@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2020 07:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2020 07:42:41 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200709]]></title>
+            <link>https://www.bilibili.com/video/av841574174</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av841574174</guid>
+        </item>
+        <item>
+            <title><![CDATA[【NAN字幕组】20200614 周日NINO]]></title>
+            <link>https://www.bilibili.com/video/av456560942</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av456560942</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】20200719 搞笑艺人KUKKI]]></title>
             <link>https://www.bilibili.com/video/av754107676</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200531 将喜欢的事情做到极致忘我之人]]></title>
             <link>https://www.bilibili.com/video/av926362423</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av926362423</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200517 宅家小锅什锦饭冠军赛]]></title>
-            <link>https://www.bilibili.com/video/av456361058</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av456361058</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200621 做到极致的忘我之人]]></title>
-            <link>https://www.bilibili.com/video/av413629306</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av413629306</guid>
         </item>
     </channel>
 </rss>
