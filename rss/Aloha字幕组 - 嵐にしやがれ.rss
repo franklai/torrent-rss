@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2020 07:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2020 07:45:28 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】迷死他比埃斯阿拉西  2020.07.30【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av499082350</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av499082350</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日 白石麻衣 2020.07.25【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av796453788</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日 高橋克典 2020.05.23【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av883337896</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av883337896</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 生田斗真 2020.05.16【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av370666627</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av370666627</guid>
         </item>
     </channel>
 </rss>
