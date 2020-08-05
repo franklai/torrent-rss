@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2020 07:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2020 07:49:01 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200723]]></title>
+            <link>https://www.bilibili.com/video/av456518678</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av456518678</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】赏樱会20200709]]></title>
             <link>https://www.bilibili.com/video/av841574174</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】相叶学20200621 学习用电烤炉做产地料理]]></title>
             <link>https://www.bilibili.com/video/av328821383</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av328821383</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日午间的NINO20200531 将喜欢的事情做到极致忘我之人]]></title>
-            <link>https://www.bilibili.com/video/av926362423</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av926362423</guid>
         </item>
     </channel>
 </rss>
