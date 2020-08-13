@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2020 07:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2020 07:52:03 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200730]]></title>
+            <link>https://www.bilibili.com/video/av796644096</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av796644096</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日NINO20200802 二宫和也和PEKOPA]]></title>
+            <link>https://www.bilibili.com/video/av414243669</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av414243669</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日NINO20200628]]></title>
             <link>https://www.bilibili.com/video/av839183236</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】赏樱会20200618]]></title>
             <link>https://www.bilibili.com/video/av243989588</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av243989588</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】20200718 ＴＢＳ音楽の日 嵐 CUT]]></title>
-            <link>https://www.bilibili.com/video/av968897993</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av968897993</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200607 宅家做万能酱料]]></title>
-            <link>https://www.bilibili.com/video/av286254097</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av286254097</guid>
         </item>
     </channel>
 </rss>
