@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2020 07:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2020 07:52:14 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200716]]></title>
+            <link>https://www.bilibili.com/video/av669254825</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av669254825</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】赏樱会20200730]]></title>
             <link>https://www.bilibili.com/video/av796644096</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】20200724 MSSP Arashi Cut]]></title>
             <link>https://www.bilibili.com/video/av841422064</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av841422064</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200618]]></title>
-            <link>https://www.bilibili.com/video/av243989588</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av243989588</guid>
         </item>
     </channel>
 </rss>
