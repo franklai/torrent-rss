@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2020 08:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2020 08:00:49 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200813]]></title>
+            <link>https://www.bilibili.com/video/av329583504</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av329583504</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】周日NINO20200816]]></title>
             <link>https://www.bilibili.com/video/av371991619</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】周日NINO20200628]]></title>
             <link>https://www.bilibili.com/video/av839183236</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av839183236</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200723]]></title>
-            <link>https://www.bilibili.com/video/av456518678</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av456518678</guid>
         </item>
     </channel>
 </rss>
