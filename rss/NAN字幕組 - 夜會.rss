@@ -4,7 +4,22 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2020 08:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2020 08:04:20 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】20200827 岚壶]]></title>
+            <link>https://www.bilibili.com/video/av457042106</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av457042106</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200903]]></title>
+            <link>https://www.bilibili.com/video/av584596366</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av584596366</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200827]]></title>
+            <link>https://www.bilibili.com/video/av372065754</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av372065754</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】20200912 The Music Day Arashi LIVE CUT]]></title>
             <link>https://www.bilibili.com/video/av712104456</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】20200826 伏牛山歌谣祭 夏 ARASHI live CUT]]></title>
             <link>https://www.bilibili.com/video/av669449568</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av669449568</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200806]]></title>
-            <link>https://www.bilibili.com/video/av541860140</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av541860140</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日NINO20200726]]></title>
-            <link>https://www.bilibili.com/video/av414273982</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av414273982</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200716]]></title>
-            <link>https://www.bilibili.com/video/av669254825</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av669254825</guid>
         </item>
     </channel>
 </rss>
