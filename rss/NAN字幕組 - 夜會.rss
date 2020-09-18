@@ -4,7 +4,7 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2020 08:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2020 08:06:02 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【No.A Name字幕组】20200827 岚壶]]></title>
             <link>https://www.bilibili.com/video/av457042106</link>
@@ -51,9 +51,9 @@
             <guid isPermaLink="false">https://www.bilibili.com/video/av839489051</guid>
         </item>
         <item>
-            <title><![CDATA[【No.A Name字幕组】20200826 伏牛山歌谣祭 夏 ARASHI live CUT]]></title>
-            <link>https://www.bilibili.com/video/av669449568</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av669449568</guid>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200806]]></title>
+            <link>https://www.bilibili.com/video/av541860140</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av541860140</guid>
         </item>
     </channel>
 </rss>
