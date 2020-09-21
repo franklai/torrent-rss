@@ -4,7 +4,12 @@
         <description><![CDATA[我想加个字幕组 - VS Arashi - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2020 08:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2020 08:08:04 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【我想加个】【字】200917庚子年乙酉月癸亥日山上刮风下雨]]></title>
+            <link>https://www.bilibili.com/video/av287213155</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av287213155</guid>
+        </item>
         <item>
             <title><![CDATA[【我想加个】【手书】我读过你的传奇，我知道那依然在写，永不完结]]></title>
             <link>https://www.bilibili.com/video/av754599642</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【我想加个】【字】200723庚子年癸未月丁卯日山上刮风下雨]]></title>
             <link>https://www.bilibili.com/video/av456461056</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av456461056</guid>
-        </item>
-        <item>
-            <title><![CDATA[【我想加个】【字】200709庚子鼠年葵未月葵丑日山上刮风下雨]]></title>
-            <link>https://www.bilibili.com/video/av753862265</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av753862265</guid>
         </item>
     </channel>
 </rss>
