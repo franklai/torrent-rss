@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2020 08:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2020 08:08:38 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】赏樱会20200910]]></title>
+            <link>https://www.bilibili.com/video/av287247323</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av287247323</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】周日NINO20200906]]></title>
+            <link>https://www.bilibili.com/video/av754700996</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av754700996</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】20200918 Music Station Arashi part]]></title>
             <link>https://www.bilibili.com/video/av754724015</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】赏樱会20200813]]></title>
             <link>https://www.bilibili.com/video/av329583504</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av329583504</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日NINO20200816]]></title>
-            <link>https://www.bilibili.com/video/av371991619</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av371991619</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】20200712周日午间的可爱NI]]></title>
-            <link>https://www.bilibili.com/video/av839489051</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av839489051</guid>
         </item>
     </channel>
 </rss>
