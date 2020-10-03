@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2020 08:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2020 08:13:15 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】樱为有尼的周四之旅 2小时SP 2020.10.1【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av542359539</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av542359539</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日 玉木宏 川口春奈 YOASOBI 2020.09.26 【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av329652306</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.08.06【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av754233329</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av754233329</guid>
-        </item>
-        <item>
-            <title><![CDATA[【Aloha】【字】关jam两小时特别篇 2020.07.29]]></title>
-            <link>https://www.bilibili.com/video/av541593117</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av541593117</guid>
         </item>
     </channel>
 </rss>
