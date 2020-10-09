@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LexBurner - from Bilibili.com]]></title>
+        <description><![CDATA[LexBurner - from Bilibili.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 09 Oct 2020 10:06:27 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[恋 爱 大 师]]></title>
+            <link>https://www.bilibili.com/video/av669967490</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av669967490</guid>
+        </item>
+        <item>
+            <title><![CDATA[村里的熊孩子们]]></title>
+            <link>https://www.bilibili.com/video/av797266134</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av797266134</guid>
+        </item>
+        <item>
+            <title><![CDATA[这动画也太沙雕了！2020十月新番吐槽大盘点！（第一弹）]]></title>
+            <link>https://www.bilibili.com/video/av669751345</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av669751345</guid>
+        </item>
+        <item>
+            <title><![CDATA[新 概 念 互 殴]]></title>
+            <link>https://www.bilibili.com/video/av329874366</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av329874366</guid>
+        </item>
+        <item>
+            <title><![CDATA[摆摊大师❌慈善大王 ✔]]></title>
+            <link>https://www.bilibili.com/video/av287286730</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av287286730</guid>
+        </item>
+        <item>
+            <title><![CDATA[新 概 念 手 办]]></title>
+            <link>https://www.bilibili.com/video/av584708417</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av584708417</guid>
+        </item>
+        <item>
+            <title><![CDATA[兄弟开黑 反目成仇]]></title>
+            <link>https://www.bilibili.com/video/av202210474</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av202210474</guid>
+        </item>
+        <item>
+            <title><![CDATA[同一款游戏，9年前和9年后的区别有多大？]]></title>
+            <link>https://www.bilibili.com/video/av627151038</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av627151038</guid>
+        </item>
+        <item>
+            <title><![CDATA[暴 打 外 挂 ！ 爽 ！]]></title>
+            <link>https://www.bilibili.com/video/av669728402</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av669728402</guid>
+        </item>
+        <item>
+            <title><![CDATA[真人版糖豆人]]></title>
+            <link>https://www.bilibili.com/video/av542034747</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av542034747</guid>
+        </item>
+    </channel>
+</rss>

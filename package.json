@@ -1,14 +1,14 @@
 {
   "dependencies": {
-    "got": "^10.6.0",
+    "got": "^10.7.0",
     "he": "^1.2.0",
     "rss": "^1.2.2"
   },
   "devDependencies": {
-    "eslint": "^5.14.1",
-    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-google": "^0.12.0",
-    "eslint-plugin-import": "^2.16.0"
+    "eslint-plugin-import": "^2.22.1"
   },
   "prettier": {
     "trailingComma": "es5",
