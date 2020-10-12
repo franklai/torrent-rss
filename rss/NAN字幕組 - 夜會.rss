@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2020 08:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2020 08:18:09 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200927 吐司面包食谱大奖赛T-1]]></title>
+            <link>https://www.bilibili.com/video/av669889160</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av669889160</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name字幕组】相叶学20200906 当地特产料理]]></title>
+            <link>https://www.bilibili.com/video/av202462910</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av202462910</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】赏樱会20200924]]></title>
             <link>https://www.bilibili.com/video/av969976293</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name字幕组】赏樱会20200910]]></title>
             <link>https://www.bilibili.com/video/av287247323</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av287247323</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】周日NINO20200906]]></title>
-            <link>https://www.bilibili.com/video/av754700996</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av754700996</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】20200918 Music Station Arashi part]]></title>
-            <link>https://www.bilibili.com/video/av754724015</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av754724015</guid>
         </item>
     </channel>
 </rss>
