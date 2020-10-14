@@ -4,7 +4,7 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2020 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2020 08:19:12 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【字】樱为有尼的周四之旅 2小时SP 2020.10.1【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av542359539</link>
@@ -31,11 +31,6 @@
             <guid isPermaLink="false">https://www.bilibili.com/video/av414498070</guid>
         </item>
         <item>
-            <title><![CDATA[【字】唠嗑掉进岚神灯 20200827 【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av884401669</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av884401669</guid>
-        </item>
-        <item>
             <title><![CDATA[【字】土曜团建日 24小时SP 2020.08.22 【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av286774126</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av286774126</guid>
@@ -54,6 +49,11 @@
             <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.08.06【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av754233329</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av754233329</guid>
+        </item>
+        <item>
+            <title><![CDATA[【Aloha】【字】关jam两小时特别篇 2020.07.29]]></title>
+            <link>https://www.bilibili.com/video/av541593117</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av541593117</guid>
         </item>
     </channel>
 </rss>

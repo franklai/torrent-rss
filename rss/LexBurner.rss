@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2020 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2020 08:19:12 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[这动画也太搞笑了！2020十月新番吐槽大盘点（第二弹）]]></title>
+            <link>https://www.bilibili.com/video/av414944513</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av414944513</guid>
+        </item>
         <item>
             <title><![CDATA[恋 爱 大 师]]></title>
             <link>https://www.bilibili.com/video/av669967490</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[暴 打 外 挂 ！ 爽 ！]]></title>
             <link>https://www.bilibili.com/video/av669728402</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av669728402</guid>
-        </item>
-        <item>
-            <title><![CDATA[真人版糖豆人]]></title>
-            <link>https://www.bilibili.com/video/av542034747</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av542034747</guid>
         </item>
     </channel>
 </rss>
