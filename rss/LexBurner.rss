@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2020 08:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2020 08:20:05 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[好 哥 们]]></title>
+            <link>https://www.bilibili.com/video/av499995639</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av499995639</guid>
+        </item>
         <item>
             <title><![CDATA[这动画也太搞笑了！2020十月新番吐槽大盘点（第二弹）]]></title>
             <link>https://www.bilibili.com/video/av414944513</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[同一款游戏，9年前和9年后的区别有多大？]]></title>
             <link>https://www.bilibili.com/video/av627151038</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av627151038</guid>
-        </item>
-        <item>
-            <title><![CDATA[暴 打 外 挂 ！ 爽 ！]]></title>
-            <link>https://www.bilibili.com/video/av669728402</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av669728402</guid>
         </item>
     </channel>
 </rss>
