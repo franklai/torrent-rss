@@ -4,7 +4,32 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2020 08:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2020 08:20:48 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】2019交友会]]></title>
+            <link>https://www.bilibili.com/video/av839910062</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av839910062</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】2016年一起赏的樱]]></title>
+            <link>https://www.bilibili.com/video/av202417158</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av202417158</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】2020交友会]]></title>
+            <link>https://www.bilibili.com/video/av927460512</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av927460512</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】2017年一起赏的樱]]></title>
+            <link>https://www.bilibili.com/video/av372493016</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av372493016</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】2019年一起赏的樱]]></title>
+            <link>https://www.bilibili.com/video/av884991434</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av884991434</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name字幕组】相叶学20201004 电炉特产展 北海道篇]]></title>
             <link>https://www.bilibili.com/video/av669875826</link>
@@ -29,31 +54,6 @@
             <title><![CDATA[【No.A Name】赏樱会20200924]]></title>
             <link>https://www.bilibili.com/video/av969976293</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av969976293</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200913 当地香辣面]]></title>
-            <link>https://www.bilibili.com/video/av372286049</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av372286049</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20200926 SP]]></title>
-            <link>https://www.bilibili.com/video/av329868275</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av329868275</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20200920]]></title>
-            <link>https://www.bilibili.com/video/av244816233</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av244816233</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】相叶学20200920]]></title>
-            <link>https://www.bilibili.com/video/av202302878</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av202302878</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name字幕组】赏樱会20200917]]></title>
-            <link>https://www.bilibili.com/video/av969735850</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av969735850</guid>
         </item>
     </channel>
 </rss>
