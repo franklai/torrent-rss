@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2020 08:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2020 08:23:48 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[可爱动物❌暴躁老哥✔]]></title>
+            <link>https://www.bilibili.com/video/av970072050</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av970072050</guid>
+        </item>
         <item>
             <title><![CDATA[建 筑 鬼 才]]></title>
             <link>https://www.bilibili.com/video/av797580961</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[新 概 念 手 办]]></title>
             <link>https://www.bilibili.com/video/av584708417</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av584708417</guid>
-        </item>
-        <item>
-            <title><![CDATA[兄弟开黑 反目成仇]]></title>
-            <link>https://www.bilibili.com/video/av202210474</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av202210474</guid>
         </item>
     </channel>
 </rss>
