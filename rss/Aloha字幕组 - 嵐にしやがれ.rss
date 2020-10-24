@@ -4,7 +4,17 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2020 08:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2020 08:24:18 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】比埃斯阿拉西 叁小时特别篇 2020.10.22【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av927510387</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av927510387</guid>
+        </item>
+        <item>
+            <title><![CDATA[【字】爱拉布米娜的Zoo 2小时SP横滨流星 桥本环奈 2020.10.3【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av670077135</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av670077135</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日  2020.10.17 堤真一 冈田健史 小峠英二 松丸亮吾 吉村崇【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av712447182</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【字】土曜团建日 增田贵久 岸优太 龟梨和也 2020. 08.15 【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av884373732</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av884373732</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 永瀬廉 皆川猿时 Hiroshi 2020.08.08【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av456708771</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av456708771</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.08.06【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av754233329</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av754233329</guid>
         </item>
     </channel>
 </rss>
