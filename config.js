@@ -4,6 +4,7 @@ exports.links = [
   ['有机星期一 - 月曜', 'https://space.bilibili.com/28259096/video'],
   ['我想加个字幕组 - VS Arashi', 'https://space.bilibili.com/129426196'],
   ['LexBurner', 'https://space.bilibili.com/777536/video'],
+  ['極主夫道', 'http://www.zimuxia.cn/portfolio/极主夫道'],
   // ['半澤直樹', 'http://www.zimuxia.cn/portfolio/半泽直树'],
   // ['派遣女王', 'http://www.zimuxia.cn/portfolio/派遣员的品格'],
   // ['Doctor-X', 'http://www.zimuxia.cn/portfolio/doctor-x'],
