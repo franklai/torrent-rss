@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2020 08:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2020 08:28:42 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】20201031 周六晚Live Do You...]]></title>
+            <link>https://www.bilibili.com/video/av202639916</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av202639916</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】20201030 MUSIC STATION Ars part]]></title>
             <link>https://www.bilibili.com/video/av372588265</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name】2017交友会]]></title>
             <link>https://www.bilibili.com/video/av329929784</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av329929784</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】2020一起赏樱叭]]></title>
-            <link>https://www.bilibili.com/video/av669993896</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av669993896</guid>
         </item>
     </channel>
 </rss>
