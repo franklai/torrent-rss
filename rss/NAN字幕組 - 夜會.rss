@@ -4,7 +4,22 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2020 08:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2020 08:30:06 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【NAN】20201105 VS CUT 「Party starters」]]></title>
+            <link>https://www.bilibili.com/video/av755202751</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av755202751</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】周日NINO20201011]]></title>
+            <link>https://www.bilibili.com/video/av202649513</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av202649513</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20201011]]></title>
+            <link>https://www.bilibili.com/video/av585192094</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av585192094</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】20201031 周六晚Live Do You...]]></title>
             <link>https://www.bilibili.com/video/av202639916</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【No.A Name】周日NINO20201004]]></title>
             <link>https://www.bilibili.com/video/av797574647</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av797574647</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】2015~2016交友会]]></title>
-            <link>https://www.bilibili.com/video/av244921836</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av244921836</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】2016后厨会]]></title>
-            <link>https://www.bilibili.com/video/av244968356</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av244968356</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】2017交友会]]></title>
-            <link>https://www.bilibili.com/video/av329929784</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av329929784</guid>
         </item>
     </channel>
 </rss>
