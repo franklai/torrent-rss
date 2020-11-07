@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2020 08:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2020 08:30:30 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[这动画也太好看了！2020十月新番吐槽大盘点！（第三弹）]]></title>
+            <link>https://www.bilibili.com/video/av712674740</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av712674740</guid>
+        </item>
         <item>
             <title><![CDATA[新 概 念 宠 粉]]></title>
             <link>https://www.bilibili.com/video/av670039866</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[这动画也太沙雕了！2020十月新番吐槽大盘点！（第一弹）]]></title>
             <link>https://www.bilibili.com/video/av669751345</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av669751345</guid>
-        </item>
-        <item>
-            <title><![CDATA[新 概 念 互 殴]]></title>
-            <link>https://www.bilibili.com/video/av329874366</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av329874366</guid>
         </item>
     </channel>
 </rss>
