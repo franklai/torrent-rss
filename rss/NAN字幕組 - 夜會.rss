@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2020 08:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2020 15:02:25 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】赏樱会20201022]]></title>
+            <link>https://www.bilibili.com/video/av797720046</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av797720046</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20201025]]></title>
+            <link>https://www.bilibili.com/video/av712674461</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av712674461</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】20201106MS Arashi - Do you...?]]></title>
             <link>https://www.bilibili.com/video/av885178136</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name】相叶学20200823 各地特产 制作松饼]]></title>
             <link>https://www.bilibili.com/video/av330061070</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av330061070</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】相叶学20200816]]></title>
-            <link>https://www.bilibili.com/video/av202505699</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av202505699</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】赏樱会20201015]]></title>
-            <link>https://www.bilibili.com/video/av970023852</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av970023852</guid>
         </item>
     </channel>
 </rss>
