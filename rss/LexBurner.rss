@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2020 08:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2020 08:34:43 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[一口气带你看完明日方舟主线剧情！绝对浅显易懂！]]></title>
+            <link>https://www.bilibili.com/video/av800363093</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av800363093</guid>
+        </item>
         <item>
             <title><![CDATA[这动画也太好看了！2020十月新番吐槽大盘点！（第三弹）]]></title>
             <link>https://www.bilibili.com/video/av712674740</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[村里的熊孩子们]]></title>
             <link>https://www.bilibili.com/video/av797266134</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av797266134</guid>
-        </item>
-        <item>
-            <title><![CDATA[这动画也太沙雕了！2020十月新番吐槽大盘点！（第一弹）]]></title>
-            <link>https://www.bilibili.com/video/av669751345</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av669751345</guid>
         </item>
     </channel>
 </rss>
