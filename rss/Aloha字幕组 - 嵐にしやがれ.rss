@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2020 08:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2020 08:37:53 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】土曜团建日  2020.11.21 相叶雅纪 风间俊介 横山裕 岩本照 Raul【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av712816071</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av712816071</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日  2020.11.14 福山雅治 桐生祥秀 佐藤健 松丸亮吾 吉村崇【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av457823236</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日  2020.10.17 堤真一 冈田健史 小峠英二 松丸亮吾 吉村崇【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av712447182</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av712447182</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】樱为有尼的周四之旅 2小时SP 2020.10.1【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av542359539</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av542359539</guid>
         </item>
     </channel>
 </rss>
