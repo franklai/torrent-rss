@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2020 08:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2020 08:41:37 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[姜子牙到底好不好看？小评电影《姜子牙》]]></title>
+            <link>https://www.bilibili.com/video/av970487022</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av970487022</guid>
+        </item>
         <item>
             <title><![CDATA[一口气带你看完明日方舟主线剧情！绝对浅显易懂！]]></title>
             <link>https://www.bilibili.com/video/av800363093</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[恋 爱 大 师]]></title>
             <link>https://www.bilibili.com/video/av669967490</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av669967490</guid>
-        </item>
-        <item>
-            <title><![CDATA[村里的熊孩子们]]></title>
-            <link>https://www.bilibili.com/video/av797266134</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av797266134</guid>
         </item>
     </channel>
 </rss>
