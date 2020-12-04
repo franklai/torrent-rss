@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Dec 2020 08:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2020 08:44:56 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[下 饭 的 king]]></title>
+            <link>https://www.bilibili.com/video/av927961004</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av927961004</guid>
+        </item>
         <item>
             <title><![CDATA[史上最贱的"自闭"游戏！up主心态彻底爆炸！]]></title>
             <link>https://www.bilibili.com/video/av927960601</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[好 哥 们]]></title>
             <link>https://www.bilibili.com/video/av499995639</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av499995639</guid>
-        </item>
-        <item>
-            <title><![CDATA[这动画也太搞笑了！2020十月新番吐槽大盘点（第二弹）]]></title>
-            <link>https://www.bilibili.com/video/av414944513</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av414944513</guid>
         </item>
     </channel>
 </rss>
