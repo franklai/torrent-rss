@@ -1,5 +1,6 @@
 /* eslint-disable class-methods-use-this */
 const fs = require('fs');
+const path = require('path');
 
 const { BilibiliParser } = require('./bilibili');
 const { FixSubParser } = require('./fix_sub');
@@ -58,7 +59,7 @@ function main() {
 
     parser.parse().then((rss) => {
       console.log(`write ${title} to rss`);
-      fs.writeFile(`rss/${title}.rss`, rss, (err) => {
+      fs.writeFile(path.join(__dirname, `public/rss/${title}.rss`), rss, (err) => {
         if (err) throw err;
       });
     });
