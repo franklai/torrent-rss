@@ -4,6 +4,9 @@
     "he": "^1.2.0",
     "rss": "^1.2.2"
   },
+  "scripts": {
+      "build": "cd public; node ../index.js"
+  },
   "devDependencies": {
     "eslint": "^7.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
