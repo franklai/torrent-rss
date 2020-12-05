@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Dec 2020 16:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2020 09:20:12 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.12.3【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av245619114</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av245619114</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日  2020.11.28 樱井翔 增田贵久 菊池风磨【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av585468234</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日 2020.10.24 指原莉乃 Fuwa 三浦翔平 奈良美智【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av670092951</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av670092951</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】比埃斯阿拉西 叁小时特别篇 2020.10.22【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av927510387</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av927510387</guid>
         </item>
     </channel>
 </rss>
