@@ -5,6 +5,7 @@ exports.links = [
   ['我想加个字幕组 - VS Arashi', 'https://space.bilibili.com/129426196'],
   ['LexBurner', 'https://space.bilibili.com/777536/video'],
   ['極主夫道', 'http://www.zimuxia.cn/portfolio/极主夫道'],
+  ['Industry', 'http://www.zimuxia.cn/portfolio/%e6%8a%95%e8%a1%8c%e9%a3%8e%e4%ba%91'],
   // ['半澤直樹', 'http://www.zimuxia.cn/portfolio/半泽直树'],
   // ['派遣女王', 'http://www.zimuxia.cn/portfolio/派遣员的品格'],
   // ['Doctor-X', 'http://www.zimuxia.cn/portfolio/doctor-x'],
