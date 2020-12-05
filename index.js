@@ -52,7 +52,7 @@ function main() {
   const { links } = config;
 
   links.forEach(([title, url]) => {
-    console.log(`fetching url: ${url}`);
+    console.log(`fetching ${title} of url: ${url}`);
     const Parser = findParser(url);
     const parser = new Parser(url, title);
 
