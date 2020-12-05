@@ -5,10 +5,10 @@
     "rss": "^1.2.2"
   },
   "scripts": {
-      "build": "cd public; node ../index.js"
+    "build": "cd public; node ../index.js"
   },
   "devDependencies": {
-    "eslint": "^7.13.0",
+    "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-import": "^2.22.1"
