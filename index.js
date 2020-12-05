@@ -22,6 +22,10 @@ function findParser(url) {
   return null;
 }
 
+function getAbsolutePath(filename) {
+  return path.join(__dirname, 'public', filename);
+}
+
 function outputToHtml(links) {
   const lines = [];
   lines.push('<!doctype html>');
@@ -44,7 +48,7 @@ function outputToHtml(links) {
   lines.push('</body></html>');
 
   const content = lines.join('\n');
-  fs.writeFile('index.html', content, (err) => {
+  fs.writeFile(getAbsolutePath('index.html'), content, (err) => {
     if (err) throw err;
   });
 }
@@ -59,7 +63,7 @@ function main() {
 
     parser.parse().then((rss) => {
       console.log(`write ${title} to rss`);
-      fs.writeFile(path.join(__dirname, `public/rss/${title}.rss`), rss, (err) => {
+      fs.writeFile(getAbsolutePath(`rss/${title}.rss`), rss, (err) => {
         if (err) throw err;
       });
     });
