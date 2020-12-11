@@ -4,7 +4,12 @@
         <description><![CDATA[有机星期一 - 月曜 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Dec 2020 11:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2020 23:18:53 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【有机星期一】【中字】20201130【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av415590483</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av415590483</guid>
+        </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20201123【小分队】]]></title>
             <link>https://www.bilibili.com/video/av330434005</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【有机星期一】【中字】20200921【小分队】]]></title>
             <link>https://www.bilibili.com/video/av842161824</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av842161824</guid>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20200914【小分队】]]></title>
-            <link>https://www.bilibili.com/video/av927211094</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av927211094</guid>
         </item>
     </channel>
 </rss>
