@@ -4,7 +4,22 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Dec 2020 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2020 12:12:26 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】周日NINO20201122]]></title>
+            <link>https://www.bilibili.com/video/av415622108</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av415622108</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】周日NINO20201129]]></title>
+            <link>https://www.bilibili.com/video/av458040285</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av458040285</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20201122]]></title>
+            <link>https://www.bilibili.com/video/av800567926</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av800567926</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】20201211MS SP Arashi Part]]></title>
             <link>https://www.bilibili.com/video/av670569522</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【No.A Name】20201125 BA Arashi Part]]></title>
             <link>https://www.bilibili.com/video/av755410809</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av755410809</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】赏樱会20201105]]></title>
-            <link>https://www.bilibili.com/video/av800367841</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av800367841</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】相叶学20200705]]></title>
-            <link>https://www.bilibili.com/video/av627754006</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av627754006</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】相叶学20200531]]></title>
-            <link>https://www.bilibili.com/video/av712798189</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av712798189</guid>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Dec 2020 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2020 12:12:26 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[史上最强！2021年1月新番导视！]]></title>
+            <link>https://www.bilibili.com/video/av798045233</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av798045233</guid>
+        </item>
         <item>
             <title><![CDATA[下 饭 的 king]]></title>
             <link>https://www.bilibili.com/video/av927961004</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[建 筑 鬼 才]]></title>
             <link>https://www.bilibili.com/video/av797580961</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av797580961</guid>
-        </item>
-        <item>
-            <title><![CDATA[好 哥 们]]></title>
-            <link>https://www.bilibili.com/video/av499995639</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av499995639</guid>
         </item>
     </channel>
 </rss>
