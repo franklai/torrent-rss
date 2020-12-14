@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Dec 2020 12:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 12:17:55 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[成为一名up主到底是怎样的感受？]]></title>
+            <link>https://www.bilibili.com/video/av373134404</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373134404</guid>
+        </item>
         <item>
             <title><![CDATA[史上最强！2021年1月新番导视！]]></title>
             <link>https://www.bilibili.com/video/av798045233</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[可爱动物❌暴躁老哥✔]]></title>
             <link>https://www.bilibili.com/video/av970072050</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av970072050</guid>
-        </item>
-        <item>
-            <title><![CDATA[建 筑 鬼 才]]></title>
-            <link>https://www.bilibili.com/video/av797580961</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av797580961</guid>
         </item>
     </channel>
 </rss>

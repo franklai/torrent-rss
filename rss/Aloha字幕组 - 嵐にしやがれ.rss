@@ -4,7 +4,22 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Dec 2020 12:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 12:17:55 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】智樱有你的TBS回忆录 贰小时SP 20201210【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av458237175</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av458237175</guid>
+        </item>
+        <item>
+            <title><![CDATA[【字】土曜团建日 2020.12.12 松本润 尾上松也 生田斗真 中村七之助 出川哲朗【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av330726385</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av330726385</guid>
+        </item>
+        <item>
+            <title><![CDATA[【字】King比埃斯阿拉西 贰小时SP 20201210 【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av373234274</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373234274</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日 2020.12.05 二宫和也 冈田将生 志尊淳 高桥克实 中丸雄一 铃木拓【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av415537262</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【字】土曜团建日 2020.11.7 佐藤浩市 桝太一 武田真治【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av670200057</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av670200057</guid>
-        </item>
-        <item>
-            <title><![CDATA[【20.11.03出道21周年献礼】【ARASHI】夏威夷&数码控  MAKING【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av457659590</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av457659590</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 2020.10.31小栗旬 Hiroshi【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av372690104</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av372690104</guid>
-        </item>
-        <item>
-            <title><![CDATA[【出道21周年预热】【字】大叔的爱番外篇岚之爱2020.10.23【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av585174095</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av585174095</guid>
         </item>
     </channel>
 </rss>
