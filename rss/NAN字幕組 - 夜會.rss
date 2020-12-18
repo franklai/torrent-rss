@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Dec 2020 12:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2020 12:14:06 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20201206]]></title>
+            <link>https://www.bilibili.com/video/av415636910</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av415636910</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】赏樱会20201112]]></title>
+            <link>https://www.bilibili.com/video/av373156837</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373156837</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会20201126]]></title>
             <link>https://www.bilibili.com/video/av373149764</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name】赏樱会20201119]]></title>
             <link>https://www.bilibili.com/video/av670507249</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av670507249</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】20201202 FNS 第一夜  ARASHI part]]></title>
-            <link>https://www.bilibili.com/video/av800391752</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av800391752</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20201108]]></title>
-            <link>https://www.bilibili.com/video/av670490058</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av670490058</guid>
         </item>
     </channel>
 </rss>
