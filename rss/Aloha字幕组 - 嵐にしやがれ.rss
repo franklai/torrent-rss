@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Dec 2020 12:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 12:13:40 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】比埃斯阿拉西 五人外景Cut（非全场）20201217【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av713149718</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av713149718</guid>
+        </item>
         <item>
             <title><![CDATA[【字】相叶学 壹小时SP 20201213  大野智【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av245677795</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日  2020.11.21 相叶雅纪 风间俊介 横山裕 岩本照 Raul【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av712816071</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av712816071</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日  2020.11.14 福山雅治 桐生祥秀 佐藤健 松丸亮吾 吉村崇【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av457823236</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av457823236</guid>
         </item>
     </channel>
 </rss>
