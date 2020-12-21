@@ -4,7 +4,22 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Dec 2020 12:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 12:14:27 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】赏樱会20201203]]></title>
+            <link>https://www.bilibili.com/video/av543149573</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543149573</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】周日NINO20201206]]></title>
+            <link>https://www.bilibili.com/video/av373197438</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373197438</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20201129]]></title>
+            <link>https://www.bilibili.com/video/av543141329</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543141329</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】相叶学20201206]]></title>
             <link>https://www.bilibili.com/video/av415636910</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【No.A Name】20201211MS SP Arashi Part]]></title>
             <link>https://www.bilibili.com/video/av670569522</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av670569522</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A name】20201209 FNS 第二夜 ARASHI Live part]]></title>
-            <link>https://www.bilibili.com/video/av885611797</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av885611797</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20201115]]></title>
-            <link>https://www.bilibili.com/video/av373094118</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373094118</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】赏樱会20201119]]></title>
-            <link>https://www.bilibili.com/video/av670507249</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av670507249</guid>
         </item>
     </channel>
 </rss>

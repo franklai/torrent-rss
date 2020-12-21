@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Dec 2020 12:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 12:14:27 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】土曜团建日 2020.12.19贰小时SP 大野智 小栗旬 室毅 柳乐优弥 知念侑李 小泷望 Hiroshi 上岛龙兵 竹内凉真 NiziU【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av628238723</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av628238723</guid>
+        </item>
         <item>
             <title><![CDATA[【字】比埃斯阿拉西 五人外景Cut（非全场）20201217【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av713149718</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.11.26【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av372925670</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av372925670</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日  2020.11.21 相叶雅纪 风间俊介 横山裕 岩本照 Raul【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av712816071</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av712816071</guid>
         </item>
     </channel>
 </rss>
