@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Dec 2020 12:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2020 12:16:32 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[UP主首次给电影唱宣传曲？！怪可爱的！圣诞快乐！]]></title>
+            <link>https://www.bilibili.com/video/av543359271</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543359271</guid>
+        </item>
         <item>
             <title><![CDATA[进 击 的 回 战]]></title>
             <link>https://www.bilibili.com/video/av755714633</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[这动画也太好看了！2020十月新番吐槽大盘点！（第三弹）]]></title>
             <link>https://www.bilibili.com/video/av712674740</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av712674740</guid>
-        </item>
-        <item>
-            <title><![CDATA[新 概 念 宠 粉]]></title>
-            <link>https://www.bilibili.com/video/av670039866</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av670039866</guid>
         </item>
     </channel>
 </rss>
