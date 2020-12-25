@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Dec 2020 12:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2020 12:14:30 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[LexBurner大战中国BOY]]></title>
+            <link>https://www.bilibili.com/video/av885832386</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av885832386</guid>
+        </item>
         <item>
             <title><![CDATA[UP主首次给电影唱宣传曲？！怪可爱的！圣诞快乐！]]></title>
             <link>https://www.bilibili.com/video/av543359271</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[一口气带你看完明日方舟主线剧情！绝对浅显易懂！]]></title>
             <link>https://www.bilibili.com/video/av800363093</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av800363093</guid>
-        </item>
-        <item>
-            <title><![CDATA[这动画也太好看了！2020十月新番吐槽大盘点！（第三弹）]]></title>
-            <link>https://www.bilibili.com/video/av712674740</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av712674740</guid>
         </item>
     </channel>
 </rss>
