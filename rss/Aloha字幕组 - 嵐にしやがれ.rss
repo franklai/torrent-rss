@@ -4,7 +4,22 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Dec 2020 12:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 12:16:57 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】比埃斯阿拉西 最终回4小时SP 游戏part3 END【Aloha】20201224]]></title>
+            <link>https://www.bilibili.com/video/av628259743</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av628259743</guid>
+        </item>
+        <item>
+            <title><![CDATA[【字】比埃斯阿拉西 最终回4小时SP 外景part2【Aloha】20201224]]></title>
+            <link>https://www.bilibili.com/video/av543253835</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543253835</guid>
+        </item>
+        <item>
+            <title><![CDATA[【字】比埃斯阿拉西 最终回4小时SP 鬼牌part1【Aloha】20201224]]></title>
+            <link>https://www.bilibili.com/video/av245854631</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av245854631</guid>
+        </item>
         <item>
             <title><![CDATA[【字】20201221 松本润·樱井翔对谈【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av928356638</link>
@@ -39,21 +54,6 @@
             <title><![CDATA[【字】King比埃斯阿拉西 贰小时SP 20201210 【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av373234274</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av373234274</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 2020.12.05 二宫和也 冈田将生 志尊淳 高桥克实 中丸雄一 铃木拓【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av415537262</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av415537262</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】迷死他比埃斯阿拉西 2020.12.3【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av245619114</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av245619114</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日  2020.11.28 樱井翔 增田贵久 菊池风磨【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av585468234</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av585468234</guid>
         </item>
     </channel>
 </rss>
