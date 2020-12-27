@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Dec 2020 12:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2020 12:14:18 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】20201226 Arashi Live]]></title>
+            <link>https://www.bilibili.com/video/av970833447</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av970833447</guid>
+        </item>
         <item>
             <title><![CDATA[【NAN】20201225 MS SLive Arashi talk+live]]></title>
             <link>https://www.bilibili.com/video/av330871073</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name】周日NINO20201129]]></title>
             <link>https://www.bilibili.com/video/av458040285</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av458040285</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】相叶学20201122]]></title>
-            <link>https://www.bilibili.com/video/av800567926</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av800567926</guid>
         </item>
     </channel>
 </rss>
