@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Dec 2020 12:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 12:15:01 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】土曜团建日 2020.12.26 最终回4小时SP全场【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av330865759</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av330865759</guid>
+        </item>
         <item>
             <title><![CDATA[【字】比埃斯阿拉西 最终回4小时SP 游戏part3 END【Aloha】20201224]]></title>
             <link>https://www.bilibili.com/video/av628259743</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日 2020.12.12 松本润 尾上松也 生田斗真 中村七之助 出川哲朗【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av330726385</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av330726385</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】King比埃斯阿拉西 贰小时SP 20201210 【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av373234274</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373234274</guid>
         </item>
     </channel>
 </rss>
