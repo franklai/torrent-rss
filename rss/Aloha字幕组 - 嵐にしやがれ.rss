@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Jan 2021 12:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 12:15:35 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】2021.1.1东京汉子之食堂培训指南 樱井翔cut【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av330992479</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av330992479</guid>
+        </item>
         <item>
             <title><![CDATA[【字】土曜团建日 2020.12.26 最终回4小时SP全场【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av330865759</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】智樱有你的TBS回忆录 贰小时SP 20201210【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av458237175</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av458237175</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 2020.12.12 松本润 尾上松也 生田斗真 中村七之助 出川哲朗【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av330726385</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av330726385</guid>
         </item>
     </channel>
 </rss>
