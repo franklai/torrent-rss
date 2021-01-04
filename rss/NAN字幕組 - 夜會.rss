@@ -4,7 +4,17 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Jan 2021 12:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2021 12:16:59 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】后厨会2018]]></title>
+            <link>https://www.bilibili.com/video/av886034833</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av886034833</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】后厨会2019]]></title>
+            <link>https://www.bilibili.com/video/av843548736</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av843548736</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会2018]]></title>
             <link>https://www.bilibili.com/video/av458481365</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【No.A Name】赏樱会20201203]]></title>
             <link>https://www.bilibili.com/video/av543149573</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av543149573</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20201206]]></title>
-            <link>https://www.bilibili.com/video/av373197438</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373197438</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】相叶学20201129]]></title>
-            <link>https://www.bilibili.com/video/av543141329</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av543141329</guid>
         </item>
     </channel>
 </rss>
