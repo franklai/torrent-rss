@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Jan 2021 12:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2021 12:20:52 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[芜 湖 起 飞]]></title>
+            <link>https://www.bilibili.com/video/av756099355</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av756099355</guid>
+        </item>
         <item>
             <title><![CDATA[2020年度动画大盘点！这些好片千万不要错过！]]></title>
             <link>https://www.bilibili.com/video/av928276957</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[史上最贱的"自闭"游戏！up主心态彻底爆炸！]]></title>
             <link>https://www.bilibili.com/video/av927960601</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av927960601</guid>
-        </item>
-        <item>
-            <title><![CDATA[Lex疯狂吐槽国产电影《姜子牙》！]]></title>
-            <link>https://www.bilibili.com/video/av970487022</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av970487022</guid>
         </item>
     </channel>
 </rss>
