@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Jan 2021 12:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 12:21:39 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[杀 马 特 复 兴]]></title>
+            <link>https://www.bilibili.com/video/av543514247</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543514247</guid>
+        </item>
         <item>
             <title><![CDATA[芜 湖 起 飞]]></title>
             <link>https://www.bilibili.com/video/av756099355</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[下 饭 的 king]]></title>
             <link>https://www.bilibili.com/video/av927961004</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av927961004</guid>
-        </item>
-        <item>
-            <title><![CDATA[史上最贱的"自闭"游戏！up主心态彻底爆炸！]]></title>
-            <link>https://www.bilibili.com/video/av927960601</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av927960601</guid>
         </item>
     </channel>
 </rss>

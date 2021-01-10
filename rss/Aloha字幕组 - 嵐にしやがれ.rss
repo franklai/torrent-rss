@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Jan 2021 12:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 12:21:39 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】2021.01.03 魂飞胆战 3小时SP【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av288608208</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av288608208</guid>
+        </item>
         <item>
             <title><![CDATA[【字】2021.1.3 二宫快乐老家 【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av501009846</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】比埃斯阿拉西 五人外景Cut（非全场）20201217【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av713149718</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av713149718</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】相叶学 壹小时SP 20201213  大野智【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av245677795</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av245677795</guid>
         </item>
     </channel>
 </rss>
