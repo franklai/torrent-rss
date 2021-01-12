@@ -4,7 +4,7 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 Jan 2021 12:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 12:31:56 GMT</lastBuildDate>
         <item>
             <title><![CDATA[【No.A Name】周日NINO20201213]]></title>
             <link>https://www.bilibili.com/video/av713571312</link>
@@ -31,11 +31,6 @@
             <guid isPermaLink="false">https://www.bilibili.com/video/av543458603</guid>
         </item>
         <item>
-            <title><![CDATA[【No.A Name】20201231红bai ARASHI]]></title>
-            <link>https://www.bilibili.com/video/av203462138</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av203462138</guid>
-        </item>
-        <item>
             <title><![CDATA[【No.A Name】赏樱会20201210]]></title>
             <link>https://www.bilibili.com/video/av628487847</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av628487847</guid>
@@ -54,6 +49,11 @@
             <title><![CDATA[【NAN】20201225 MS SLive Arashi talk+live]]></title>
             <link>https://www.bilibili.com/video/av330871073</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av330871073</guid>
+        </item>
+        <item>
+            <title><![CDATA[【No.A Name】赏樱会20201203]]></title>
+            <link>https://www.bilibili.com/video/av543149573</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av543149573</guid>
         </item>
     </channel>
 </rss>
