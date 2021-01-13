@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Jan 2021 12:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2021 12:33:30 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[与死宅网友面基，没想到对方竟是校花！还上来就骂人！Lex带你看一月最争议新番！]]></title>
+            <link>https://www.bilibili.com/video/av586130008</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av586130008</guid>
+        </item>
         <item>
             <title><![CDATA[杀 马 特 复 兴]]></title>
             <link>https://www.bilibili.com/video/av543514247</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[史上最强！2021年1月新番导视！]]></title>
             <link>https://www.bilibili.com/video/av798045233</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av798045233</guid>
-        </item>
-        <item>
-            <title><![CDATA[下 饭 的 king]]></title>
-            <link>https://www.bilibili.com/video/av927961004</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av927961004</guid>
         </item>
     </channel>
 </rss>
