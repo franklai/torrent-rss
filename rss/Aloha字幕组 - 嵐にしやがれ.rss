@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Jan 2021 12:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 12:31:25 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】2020.12.11 The Music Never Ends ARASHI CUT【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av928695710</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av928695710</guid>
+        </item>
         <item>
             <title><![CDATA[【字】2021.01.03 魂飞胆战 3小时SP【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av288608208</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】土曜团建日 2020.12.19贰小时SP 大野智 小栗旬 室毅 柳乐优弥 知念侑李 小泷望 Hiroshi 上岛龙兵 竹内凉真 NiziU【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av628238723</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av628238723</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】比埃斯阿拉西 五人外景Cut（非全场）20201217【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av713149718</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av713149718</guid>
         </item>
     </channel>
 </rss>
