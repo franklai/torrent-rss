@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 Jan 2021 12:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2021 12:38:48 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[b站小伙失误竟然炼出初号机…]]></title>
+            <link>https://www.bilibili.com/video/av246127919</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av246127919</guid>
+        </item>
         <item>
             <title><![CDATA[与死宅网友面基，没想到对方竟是校花！还上来就骂人！Lex带你看一月最争议新番！]]></title>
             <link>https://www.bilibili.com/video/av586130008</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[成为一名up主到底是怎样的感受？]]></title>
             <link>https://www.bilibili.com/video/av373134404</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av373134404</guid>
-        </item>
-        <item>
-            <title><![CDATA[史上最强！2021年1月新番导视！]]></title>
-            <link>https://www.bilibili.com/video/av798045233</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av798045233</guid>
         </item>
     </channel>
 </rss>
