@@ -4,7 +4,12 @@
         <description><![CDATA[Aloha字幕组 - 嵐にしやがれ - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 Jan 2021 12:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2021 12:31:28 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【字】2021.1.16 sho酱咻time 2小时SP【Aloha】]]></title>
+            <link>https://www.bilibili.com/video/av928693477</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av928693477</guid>
+        </item>
         <item>
             <title><![CDATA[【字】2020.12.11 The Music Never Ends ARASHI CUT【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av928695710</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【字】20201221 松本润·樱井翔对谈【Aloha】]]></title>
             <link>https://www.bilibili.com/video/av928356638</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av928356638</guid>
-        </item>
-        <item>
-            <title><![CDATA[【字】土曜团建日 2020.12.19贰小时SP 大野智 小栗旬 室毅 柳乐优弥 知念侑李 小泷望 Hiroshi 上岛龙兵 竹内凉真 NiziU【Aloha】]]></title>
-            <link>https://www.bilibili.com/video/av628238723</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av628238723</guid>
         </item>
     </channel>
 </rss>
