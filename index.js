@@ -35,8 +35,9 @@ function outputToHtml(links) {
   );
   lines.push('<body>');
   lines.push('<ul>');
+  const prefix = 'https://franklai.github.io/torrent-rss/rss';
   links.forEach(([title, url]) => {
-    const rssLink = `https://franklai.github.io/torrent-rss/rss/${title}.rss`;
+    const rssLink = `${prefix}/${encodeURIComponent(title)}.rss`;
 
     lines.push('<li>');
     lines.push(`[<a href="${url}">Page</a>] `);
