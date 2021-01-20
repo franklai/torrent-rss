@@ -4,7 +4,12 @@
         <description><![CDATA[小和财露尖尖嗓 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 Jan 2021 15:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2021 15:06:55 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【小和组】加倍宠尼 20210117 - 与松下奈绪&松村北斗一起进行新企划！美食反应竞猜赛！]]></title>
+            <link>https://www.bilibili.com/video/av373854020</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373854020</guid>
+        </item>
         <item>
             <title><![CDATA[【小和组/中日双语】Baystorm 20210103]]></title>
             <link>https://www.bilibili.com/video/av798730644</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【小和组/中日双语】Baystorm 20201220]]></title>
             <link>https://www.bilibili.com/video/av288288595</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av288288595</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组】加倍宠尼 20201220 - 横山裕参战私人物品侦察员！Ganbareruya来发掘羽田的魅力之处！]]></title>
-            <link>https://www.bilibili.com/video/av373300087</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373300087</guid>
         </item>
     </channel>
 </rss>
