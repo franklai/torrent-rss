@@ -4,7 +4,17 @@
         <description><![CDATA[小和财露尖尖嗓 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 Jan 2021 12:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2021 12:24:27 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【小和组/中日双语】Baystorm 20210117]]></title>
+            <link>https://www.bilibili.com/video/av713838834</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av713838834</guid>
+        </item>
+        <item>
+            <title><![CDATA[【小和组】加倍宠尼 20210124 - 二宫和也与嘉宾们一起培养快乐生活的趣味]]></title>
+            <link>https://www.bilibili.com/video/av971361891</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av971361891</guid>
+        </item>
         <item>
             <title><![CDATA[【小和组】加倍宠尼 20210117 - 与松下奈绪&松村北斗一起进行新企划！美食反应竞猜赛！]]></title>
             <link>https://www.bilibili.com/video/av373854020</link>
@@ -44,16 +54,6 @@
             <title><![CDATA[【小和组】20210103 - 二宫妙妙屋]]></title>
             <link>https://www.bilibili.com/video/av713512482</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av713512482</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组/中日双语】Baystorm 20201213]]></title>
-            <link>https://www.bilibili.com/video/av203470242</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av203470242</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组/中日双语】Baystorm 20201220]]></title>
-            <link>https://www.bilibili.com/video/av288288595</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av288288595</guid>
         </item>
     </channel>
 </rss>
