@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Jan 2021 12:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2021 12:16:43 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[绝对真实！做主播是一种怎样的体验？]]></title>
+            <link>https://www.bilibili.com/video/av373790271</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av373790271</guid>
+        </item>
         <item>
             <title><![CDATA[b站小伙失误竟然炼出初号机…]]></title>
             <link>https://www.bilibili.com/video/av246127919</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[方 言 大 师]]></title>
             <link>https://www.bilibili.com/video/av843233460</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av843233460</guid>
-        </item>
-        <item>
-            <title><![CDATA[成为一名up主到底是怎样的感受？]]></title>
-            <link>https://www.bilibili.com/video/av373134404</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373134404</guid>
         </item>
     </channel>
 </rss>
