@@ -4,7 +4,12 @@
         <description><![CDATA[小和财露尖尖嗓 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Feb 2021 00:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 12:17:12 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【小和组/中日双语】Baystorm 20210124]]></title>
+            <link>https://www.bilibili.com/video/av756430509</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av756430509</guid>
+        </item>
         <item>
             <title><![CDATA[【小和组/中日双语】Baystorm 20210110]]></title>
             <link>https://www.bilibili.com/video/av246483234</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【小和组/中日双语】20201220 日本郵便 SUNDAY’S POST (JFN系) 相葉雅紀 二宮和也]]></title>
             <link>https://www.bilibili.com/video/av928624690</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av928624690</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组】加倍宠尼 20201227 - 出川哲朗参战▽菊池&Fuwa 龟有奇妙之旅！▽ 中华街最受欢迎菜品大评比]]></title>
-            <link>https://www.bilibili.com/video/av971079088</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av971079088</guid>
         </item>
     </channel>
 </rss>
