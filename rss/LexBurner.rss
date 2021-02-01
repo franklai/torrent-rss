@@ -4,7 +4,12 @@
         <description><![CDATA[LexBurner - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Jan 2021 12:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 00:11:26 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[2021“画饼”挑战]]></title>
+            <link>https://www.bilibili.com/video/av928893388</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av928893388</guid>
+        </item>
         <item>
             <title><![CDATA[绝对真实！做主播是一种怎样的体验？]]></title>
             <link>https://www.bilibili.com/video/av373790271</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[进 击 的 回 战]]></title>
             <link>https://www.bilibili.com/video/av755714633</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av755714633</guid>
-        </item>
-        <item>
-            <title><![CDATA[方 言 大 师]]></title>
-            <link>https://www.bilibili.com/video/av843233460</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av843233460</guid>
         </item>
     </channel>
 </rss>
