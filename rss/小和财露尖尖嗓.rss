@@ -4,7 +4,12 @@
         <description><![CDATA[小和财露尖尖嗓 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Feb 2021 12:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 12:13:43 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【小和组】加倍宠尼 20210131 - 丸山桂里奈・本並健治和成田特产大调查!在街道振兴问答中妙答连发?]]></title>
+            <link>https://www.bilibili.com/video/av288970696</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av288970696</guid>
+        </item>
         <item>
             <title><![CDATA[【小和组/中日双语】Baystorm 20210124]]></title>
             <link>https://www.bilibili.com/video/av756430509</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【小和组】加倍宠尼 20210110 - 尾上松也VS除了饺子之外的宇都宫魅力大调查]]></title>
             <link>https://www.bilibili.com/video/av458634284</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av458634284</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组/中日双语】20201220 日本郵便 SUNDAY’S POST (JFN系) 相葉雅紀 二宮和也]]></title>
-            <link>https://www.bilibili.com/video/av928624690</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av928624690</guid>
         </item>
     </channel>
 </rss>
