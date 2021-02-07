@@ -4,7 +4,12 @@
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Feb 2021 12:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 12:14:00 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20210131]]></title>
+            <link>https://www.bilibili.com/video/av971527624</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av971527624</guid>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会20210114]]></title>
             <link>https://www.bilibili.com/video/av544062098</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name】后厨会2018]]></title>
             <link>https://www.bilibili.com/video/av886034833</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av886034833</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】后厨会2019]]></title>
-            <link>https://www.bilibili.com/video/av843548736</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av843548736</guid>
         </item>
     </channel>
 </rss>
