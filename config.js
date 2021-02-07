@@ -1,4 +1,5 @@
 exports.links = [
+  ['Aloha', 'https://space.bilibili.com/14016058/video'],
   ['小和财露尖尖嗓', 'https://space.bilibili.com/22191019/video'],
   ['NAN字幕組 - 夜會', 'https://space.bilibili.com/14147173/video'],
   ['有机星期一 - 月曜', 'https://space.bilibili.com/28259096/video'],
