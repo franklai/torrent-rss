@@ -4,7 +4,12 @@
         <description><![CDATA[小和财露尖尖嗓 - from Bilibili.com]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Feb 2021 12:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 12:12:17 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[【小和组】加倍宠尼 20210207 - 二宫和也与各位嘉宾一起愉快地感受生活趣味]]></title>
+            <link>https://www.bilibili.com/video/av929220546</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av929220546</guid>
+        </item>
         <item>
             <title><![CDATA[【小和组/中日双语】Baystorm 20210131]]></title>
             <link>https://www.bilibili.com/video/av289014883</link>
@@ -49,11 +54,6 @@
             <title><![CDATA[【小和组】20210114 二宫和也紧急出战大乱斗]]></title>
             <link>https://www.bilibili.com/video/av713657441</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av713657441</guid>
-        </item>
-        <item>
-            <title><![CDATA[【小和组/中日双语】Baystorm 20201227]]></title>
-            <link>https://www.bilibili.com/video/av628734508</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av628734508</guid>
         </item>
     </channel>
 </rss>
