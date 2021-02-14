@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const { BilibiliParser } = require('./bilibili');
-const { FixSubParser } = require('./fix_sub');
+const { FixSubParser } = require('./fix-sub');
 
 const config = require('./config');
 
