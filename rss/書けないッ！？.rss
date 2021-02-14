@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[書けないッ!? - from FIX subs]]></title>
-        <description><![CDATA[書けないッ!? - from FIX subs]]></description>
+        <title><![CDATA[書けないッ！？ - from FIX subs]]></title>
+        <description><![CDATA[書けないッ！？ - from FIX subs]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Feb 2021 09:52:27 GMT</lastBuildDate>
+        
         <item>
             <title><![CDATA[Kakenai.E04.720p.FIX字幕侠]]></title>
             <link>magnet:?xt=urn:btih:7D1BEFF80E210F368A65E16C78ECAC818C43BA30&amp;dn=Kakenai.E04.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
