@@ -65,6 +65,8 @@ function main() {
 
     parser.parse().then((rss) => {
       console.log(`write ${title} to rss`);
+      // remove lastBuildDate
+      rss = rss.replace(/<lastBuildDate.*?lastBuildDate>/, '');
       fs.writeFile(getAbsolutePath(`rss/${title}.rss`), rss, (error) => {
         if (error) throw error;
       });
