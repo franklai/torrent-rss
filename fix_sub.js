@@ -43,7 +43,10 @@ exports.FixSubParser = class FixSubParser {
     const feed = new RSS(options);
 
     links.forEach((link) => {
-      const name = this.constructor.getFilename(link) || this.constructor.getBTIH(link) || link;
+      const name =
+        this.constructor.getFilename(link) ||
+        this.constructor.getBTIH(link) ||
+        link;
 
       feed.item({
         title: name,

@@ -1,21 +1,38 @@
 {
   "dependencies": {
-    "got": "^11.8.0",
+    "got": "^11.8.1",
     "he": "^1.2.0",
     "rss": "^1.2.2"
   },
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
+    "lint": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
+    "eslint": "^7.20.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-config-google": "^0.14.0",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true
+    },
+    "extends": [
+      "plugin:prettier/recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module"
+    },
+    "rules": {
+      "prettier/prettier": "error"
+    }
   },
   "prettier": {
-    "trailingComma": "es5",
+    "arrowParens": "always",
     "singleQuote": true,
-    "arrowParens": "always"
+    "trailingComma": "es5"
   }
 }
