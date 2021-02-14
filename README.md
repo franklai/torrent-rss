@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/franklai/torrent-rss.svg?branch=master)](https://travis-ci.com/franklai/torrent-rss)
+![Build Status](https://github.com/franklai/torrent-rss/workflows/gh-pages/badge.svg)
 
 ## Generated Page
 * https://franklai.github.io/torrent-rss/
