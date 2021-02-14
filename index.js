@@ -15,11 +15,11 @@ function findParser(url) {
 
   // eslint-disable-next-line no-restricted-syntax
   for (const [keyword, parser] of urlKewords) {
-    if (url.indexOf(keyword) >= 0) {
+    if (url.includes(keyword)) {
       return parser;
     }
   }
-  return null;
+  return;
 }
 
 function getAbsolutePath(filename) {
@@ -28,47 +28,48 @@ function getAbsolutePath(filename) {
 
 function outputToHtml(links) {
   const lines = [];
-  lines.push('<!doctype html>');
-  lines.push('<html>');
   lines.push(
-    '<head><meta charset="utf-8"><title>Links to generated RSS</title></head>'
+    '<!doctype html>',
+    '<html>',
+    '<head><meta charset="utf-8"><title>Links to generated RSS</title></head>',
+    '<body>',
+    '<ul>'
   );
-  lines.push('<body>');
-  lines.push('<ul>');
   const prefix = 'https://franklai.github.io/torrent-rss/rss';
-  links.forEach(([title, url]) => {
+  for (const [title, url] of links) {
     const rssLink = `${prefix}/${encodeURIComponent(title)}.rss`;
 
-    lines.push('<li>');
-    lines.push(`[<a href="${url}">Page</a>] `);
-    lines.push(`[<a href="${rssLink}">RSS</a>] `);
-    lines.push(`<a href="${rssLink}">${title}</a>`);
-    lines.push('</li>');
-  });
-  lines.push('</ul>');
-  lines.push('</body></html>');
+    lines.push(
+      '<li>',
+      `[<a href="${url}">Page</a>] `,
+      `[<a href="${rssLink}">RSS</a>] `,
+      `<a href="${rssLink}">${title}</a>`,
+      '</li>'
+    );
+  }
+  lines.push('</ul>', '</body></html>');
 
   const content = lines.join('\n');
-  fs.writeFile(getAbsolutePath('index.html'), content, (err) => {
-    if (err) throw err;
+  fs.writeFile(getAbsolutePath('index.html'), content, (error) => {
+    if (error) throw error;
   });
 }
 
 function main() {
   const { links } = config;
 
-  links.forEach(([title, url]) => {
+  for (const [title, url] of links) {
     console.log(`fetching ${title} of url: ${url}`);
     const Parser = findParser(url);
     const parser = new Parser(url, title);
 
     parser.parse().then((rss) => {
       console.log(`write ${title} to rss`);
-      fs.writeFile(getAbsolutePath(`rss/${title}.rss`), rss, (err) => {
-        if (err) throw err;
+      fs.writeFile(getAbsolutePath(`rss/${title}.rss`), rss, (error) => {
+        if (error) throw error;
       });
     });
-  });
+  }
 
   outputToHtml(links);
 }

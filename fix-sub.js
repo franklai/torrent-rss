@@ -15,7 +15,7 @@ exports.FixSubParser = class FixSubParser {
 
   static parseLinks(html) {
     const pattern = /magnet:[^"]+/g;
-    return html.match(pattern).map(he.decode);
+    return html.match(pattern).map((value) => he.decode(value));
   }
 
   static getFilename(value) {
@@ -28,7 +28,7 @@ exports.FixSubParser = class FixSubParser {
   }
 
   static getBTIH(value) {
-    const pattern = /btih:([a-fA-F0-9]+)/;
+    const pattern = /btih:([\dA-Fa-f]+)/;
     const matched = value.match(pattern);
     if (matched) {
       return matched[1];
@@ -42,7 +42,7 @@ exports.FixSubParser = class FixSubParser {
     };
     const feed = new RSS(options);
 
-    links.forEach((link) => {
+    for (const link of links) {
       const name =
         this.constructor.getFilename(link) ||
         this.constructor.getBTIH(link) ||
@@ -53,7 +53,7 @@ exports.FixSubParser = class FixSubParser {
         url: link,
         guid: link,
       });
-    });
+    }
 
     return feed.xml({ indent: true });
   }

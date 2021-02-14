@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "eslint": "^7.20.0",
-    "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-unicorn": "^28.0.0",
     "prettier": "^2.2.1"
   },
   "eslintConfig": {
@@ -20,6 +20,7 @@
       "es6": true
     },
     "extends": [
+      "plugin:unicorn/recommended",
       "plugin:prettier/recommended"
     ],
     "parserOptions": {

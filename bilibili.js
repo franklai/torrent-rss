@@ -40,13 +40,13 @@ exports.BilibiliParser = class BilibiliParser {
     };
     const feed = new RSS(options);
 
-    linksAndNames.forEach(([link, name]) => {
+    for (const [link, name] of linksAndNames) {
       feed.item({
         title: name,
         url: link,
         guid: link,
       });
-    });
+    }
 
     return feed.xml({ indent: true });
   }
