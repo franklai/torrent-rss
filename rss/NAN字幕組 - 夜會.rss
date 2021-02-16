@@ -6,6 +6,11 @@
         <generator>RSS for Node</generator>
         
         <item>
+            <title><![CDATA[【No.A Name】周日NINO20210124]]></title>
+            <link>https://www.bilibili.com/video/av501723837</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av501723837</guid>
+        </item>
+        <item>
             <title><![CDATA[【No.A Name】周日NINO20201220]]></title>
             <link>https://www.bilibili.com/video/av714196334</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av714196334</guid>
@@ -49,11 +54,6 @@
             <title><![CDATA[【No.A Name】相叶学20210110]]></title>
             <link>https://www.bilibili.com/video/av373763155</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av373763155</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】周日NINO20201227]]></title>
-            <link>https://www.bilibili.com/video/av756294394</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av756294394</guid>
         </item>
     </channel>
 </rss>
