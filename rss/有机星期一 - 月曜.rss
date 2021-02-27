@@ -6,6 +6,11 @@
         <generator>RSS for Node</generator>
         
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210222【小分队】]]></title>
+            <link>https://www.bilibili.com/video/av671961584</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av671961584</guid>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210215【小分队】]]></title>
             <link>https://www.bilibili.com/video/av374271065</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av374271065</guid>
@@ -49,11 +54,6 @@
             <title><![CDATA[【有机星期一】【中字】20201130【小分队】]]></title>
             <link>https://www.bilibili.com/video/av415590483</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av415590483</guid>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20201123【小分队】]]></title>
-            <link>https://www.bilibili.com/video/av330434005</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av330434005</guid>
         </item>
     </channel>
 </rss>
