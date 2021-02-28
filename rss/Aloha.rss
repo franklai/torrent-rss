@@ -2,58 +2,141 @@
     <channel>
         <title><![CDATA[Aloha - from Bilibili.com]]></title>
         <description><![CDATA[Aloha - from Bilibili.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://franklai.github.io/torrent-rss/rss/Aloha.rss</link>
         <generator>RSS for Node</generator>
         
+        <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【字】2015.1.31 土曜团建日 長渕剛【Aloha】]]></title>
+            <description><![CDATA[直传
+20150131——嵐にしやがれ
+ 
+長渕剛音乐教室热血开课！前所未见的硬汉式教习方法，大前辈的活力值加满，和五位嵐朋友一起Rock and Roll~
+大物驾到首开话题居然是红白歌会后台相处的不满投诉？赶紧再度热络起来，解除误会吧！从吉他到口琴，几位同班同学的学习能力几何？学习结果又是什么水平呢？近距离接触不一样的摇滚音乐世界，随着氛围一起律动，快乐的获得方式其实很简单！
+每周六继续和Aloha相约嵐にしやがれ的同时，也不要忘记支持member们的其他精彩节目哦~我们下周见啦~]]></description>
             <link>https://www.bilibili.com/video/av799440070</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av799440070</guid>
+            <pubDate>Mon, 19 Jan 1970 16:26:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2021.2.20 sho酱咻time SA部分【Aloha】]]></title>
+            <description><![CDATA[直传
+Aloha！
+翔酱开创新番组，呼叫门把作嘉宾
+目睹辛酸后空翻，爱拔急忙来参战
+作为幕后小撺掇，心中实在有愧疚
+早早想好新企划，夙愿全程马拉松
+为求街道少骚乱，八度楼顶跑步机
+前半轻松高抬腿，后半脚痛可成功？
+多多亲友上高台，陪跑大白宽衣带
+九岁心脏莫逞强，该拒绝时要果断
+开场聊天就很棒，一个小时大力上
+嬉笑畅谈嵐日常，举手卧底当围观
+休止不聚才两月，回顾往昔实想念
+串门做客多合作，嵐饭心中最快乐！]]></description>
             <link>https://www.bilibili.com/video/av971768872</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av971768872</guid>
+            <pubDate>Mon, 19 Jan 1970 16:18:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2015.1.24 土曜团建日 龟梨和也【Aloha】]]></title>
+            <description><![CDATA[直传
+Aloha！
+东京怪咖美味店，帅气竹马探索挂满日历的中华料理店，满口段子的老板、为了风水刷黄的墙面、名叫正宗的担担面、抢戏的定时器，带你领略自定义的米其林三星。
+嘉宾龟梨和也，亲手为岚各人准备特色美食，双和也卖萌式主持答题，被曲解的MJ现场抖S，追着四哥暴揍展牌，辛苦东京的大野老爹既要归置现场又要跑火车解释奇奇怪怪的选项，为求公正为老爹奉上兆分级款待。第一次为前辈做饭畅聊成长心路，还有二哥撺掇尼桑一本正经的模仿耍酷，四哥吐槽三哥的历史留白，再次回顾依旧笑语不断，祝大家牛年大吉！]]></description>
             <link>https://www.bilibili.com/video/av714267551</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av714267551</guid>
+            <pubDate>Mon, 19 Jan 1970 16:16:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2015.1.17 土曜团建日 SEKAI NO OWARI【Aloha】]]></title>
+            <description><![CDATA[大家过年好呀！
+
+快乐小伙伴世终来啦！Fukase平时一边做什么一边想出了歌词呢？Saori靠绝对音感有什么超能力表现？DJ LOVE居然在考虑隐退？在超还原的share house布景里，放松心情的团员们开始频频爆料，各种意想不到的内部资料纷至杳来。
+嵐x SEKAI NO OWARI电视综艺首次合作，词语接龙卡牌游戏炒热全场，为了美食，大家冲鸭！
+另有SJ组合东京探店，腻味店环节又带来了什么美食呢？过年家家桌上菜都硬，你们可坚持住，不要被馋哭哦！]]></description>
             <link>https://www.bilibili.com/video/av586671214</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av586671214</guid>
+            <pubDate>Mon, 19 Jan 1970 16:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2015.1.10 土曜团建日 东山纪之 博多大吉【Aloha】]]></title>
+            <description><![CDATA[直传
+151011嵐にしやがれ
+
+常规节目第一期来了！再就业的Aloha稳定上岗ing！
+第一期的排面是大王子东山纪之前辈给的～
+大前辈自带企划——假面舞会圆桌会议前来助阵。在这张桌子上只要戴上假面就可以“匿名”畅所欲言～后辈和前辈的有趣小故事，前辈独家传授读新闻锻炼法，还有和平时印象不同的东山爸爸的育儿生活……大前辈还给五个人未来的发展给出了宝贵的建议！
+竹马本期腻味店出差前往东京的天妇罗店品尝特别的鸡蛋天妇罗盖饭～果然大家一起吃吃吃，才是五子节目的不变主旨。]]></description>
             <link>https://www.bilibili.com/video/av416614808</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av416614808</guid>
+            <pubDate>Mon, 19 Jan 1970 15:56:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2015.1.1 土曜团建日—暴风雨山庄 2小时SP【Aloha】]]></title>
+            <description><![CDATA[直传
+20150101——嵐にしやがれ元旦SP
+
+今年也要从正月开始就元气满满哦~这里是依旧专注嵐にしやがれ的Aloha！
+
+岚旅馆开业，招待超豪华嘉宾组~变身美少女战士、准备精致一人餐、男友力爆棚轮番壁咚、学习柔道技巧、凌晨开始做年糕、吃吃喝喝卡拉OK……除此以外，没有一家旅馆可以提供这样的完美服务~
+
+啊，对了，以后我们每周土曜日依旧会团建的！希望更多的朋友一起来呀~
+じゃあ、またね。]]></description>
             <link>https://www.bilibili.com/video/av416377545</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av416377545</guid>
+            <pubDate>Mon, 19 Jan 1970 15:46:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2021.01.16 爱拉布米娜的Zoo 相叶雅纪 樱井翔cut【Aloha】]]></title>
+            <description><![CDATA[直传
+Aloha！
+小语种·不定期·特别课堂悠然上线，新年第一发门把串门，我爱大家的动物园迎来嘉宾天下一品·翔，宫古岛出张录制，心心念念着可爱的大车车，在Arashi中开启撸狗抱猫的治愈之旅。
+救助流浪狗，斯盖不离口，天下第一拔吹功力不减，带你领略土日相葉的全能魅力。合作修毛球，直接上手拿小拔哥演示卡下颌，要说玩还是你们SA会玩。狗狗洗澡暴躁了怎么办，用温柔的力量融化它！从忧伤到笑颜，需要的不过是相叶雅纪的搂抱宽慰和樱井翔的爱抚凝视罢了。点开视频，让SA能量注入生命，每一天都是最晴朗的千叶海岸！]]></description>
             <link>https://www.bilibili.com/video/av458773514</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av458773514</guid>
+            <pubDate>Mon, 19 Jan 1970 15:36:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2021.1.16 sho酱咻time 2小时SP【Aloha】]]></title>
+            <description><![CDATA[直传
+Aloha！
+小语种·不定期·特别课堂又开班啦！
+
+大家都来挑战  想要完成的事——sho酱咻time！
+
+前有25年杰尼斯挑战后空翻，后有美人顶点景子姐姐挑战双摇跳绳
+意外的不器用，制造笑点不断，连结局都很微妙？
+
+一般群众小嶋捣乱児嶋的错名梗
+最后的走向居然是Kojima的土下座？
+
+还有sho酱连线国际宇宙空间站
+无重力的环境下转陀螺会发生什么？
+这种环境下做出来的酱油海苔饭看着还挺好吃～
+
+总共7个企划，诚意满满的首期SP可不容错过哦！]]></description>
             <link>https://www.bilibili.com/video/av928693477</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av928693477</guid>
+            <pubDate>Mon, 19 Jan 1970 15:29:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2020.12.11 The Music Never Ends ARASHI CUT【Aloha】]]></title>
+            <description><![CDATA[还记得你们作为组合第一次登上MS时，匆忙又慌张的样子，几个人紧紧挤在一起向观众问好，到今天成为TOP，占据节目的大半时间，游刃有余地进行表演。1999年到2020年，140回出演，数不清的回忆纷纷涌现，那些守在直播前等你们的时光，那些舞台上出现的，被粉丝们津津乐道的小意外，那些在TALK里不经意透露的私下生活碎片……
+这一刻，最后的舞台与最初的舞台重合起来，写成一封最诚挚的message，写满了ありがとう。]]></description>
             <link>https://www.bilibili.com/video/av928695710</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av928695710</guid>
+            <pubDate>Mon, 19 Jan 1970 15:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【字】2021.01.03 魂飞胆战 3小时SP【Aloha】]]></title>
+            <description><![CDATA[直传
+Aloha！
+小语种·不定期·交流·特别课堂开班啦，VS天然之魂接力上线，非常规制作专注SP与门把宣番等。初回3小时直播放送诚意满满，领袖相葉雅纪出类拔萃，选队员要吃了面包才能进家门？虽然门槛不算高，难得各自吃出风格，果然天然出奇迹，期待风pon的吐槽。
+各界嘉宾齐上阵，豪华阵容武装全场，有人带着神的强运，有人恶魔附身呢喃低语，有人呵呵大笑，有人被玩弄在股掌之间。新节目新队员新游戏，老天音老观众老bug，拼体力考智力比心理，需熟悉待磨合等精进。相葉老师辛苦了，健康第一，老战友依然是强有力后盾！]]></description>
             <link>https://www.bilibili.com/video/av288608208</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av288608208</guid>
+            <pubDate>Mon, 19 Jan 1970 15:17:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -2,58 +2,129 @@
     <channel>
         <title><![CDATA[有机星期一 - 月曜 - from Bilibili.com]]></title>
         <description><![CDATA[有机星期一 - 月曜 - from Bilibili.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://franklai.github.io/torrent-rss/rss/有机星期一 - 月曜.rss</link>
         <generator>RSS for Node</generator>
         
+        <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210222【小分队】]]></title>
+            <description><![CDATA[本期卡片：
+1.调查了个人的新闻事件
+2.远程采访想上月曜的人的技能事件
+3.全国的当地问题事件
+4.做了谁都没做过的调查Part12
+5.准备了心理测试的问题]]></description>
             <link>https://www.bilibili.com/video/av671961584</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av671961584</guid>
+            <pubDate>Mon, 19 Jan 1970 16:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210215【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.调查了全国的OO问题事件
+2.回应来自观众的调查委托事件]]></description>
             <link>https://www.bilibili.com/video/av374271065</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av374271065</guid>
+            <pubDate>Mon, 19 Jan 1970 16:16:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210208【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.日本的小争论点事件
+2.调查了播放次数小于100的视频事件
+3.调查了路人的工作事件
+4.元旦SP没有讲完的问题]]></description>
             <link>https://www.bilibili.com/video/av246671836</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av246671836</guid>
+            <pubDate>Mon, 19 Jan 1970 16:07:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210202【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.向街上的行人打听个人的新闻事件
+2.回应了观众的调查委托的事件
+3.调查新冠疫情背后发生的事情]]></description>
             <link>https://www.bilibili.com/video/av586601220</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av586601220</guid>
+            <pubDate>Mon, 19 Jan 1970 15:58:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210125【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
+【本期为过去放送过的片段合集】
+本期卡片：
+1.调查街道行人的工作事件
+2.调查了各个职业的人对客户的反向抱怨事件
+3.日本的争论点事件
+4.雪国的个人新闻采访事件]]></description>
             <link>https://www.bilibili.com/video/av416403776</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av416403776</guid>
+            <pubDate>Mon, 19 Jan 1970 15:48:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210111【小分队】]]></title>
+            <description><![CDATA[【本期为过去放送过的片段合集】
+本期卡片：
+1.介绍围绕23区的问题事件
+2.东京23区的小知识事件
+3.月曜式首都圈线路调查事件]]></description>
             <link>https://www.bilibili.com/video/av756166682</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av756166682</guid>
+            <pubDate>Mon, 19 Jan 1970 15:27:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20210101-SP【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
+本期卡片：
+1.2021年的日本大问题事件
+2.非常可疑的魔术师GO的新春魔术秀
+3.桐谷桑雇佣了保洁事件
+4.向行人询问了今年的抱负事件
+5.新春喜事直播事件
+6.音乐结姐姐 踢拳业余级比赛出场事件]]></description>
             <link>https://www.bilibili.com/video/av671019655</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av671019655</guid>
+            <pubDate>Mon, 19 Jan 1970 15:19:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20201214【小分队】]]></title>
+            <description><![CDATA[本期卡片：
+1.2020年的重大个人新闻事件
+2.2020年月曜式新闻的相关调查事件
+3.石原良纯的贺年卡问题事件
+4.做良纯桑想做的事环节]]></description>
             <link>https://www.bilibili.com/video/av373211688</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av373211688</guid>
+            <pubDate>Mon, 19 Jan 1970 14:49:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20201207【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
+本期卡片：
+1.向行人询问今年的汉字的事件
+2.你住的那个街区改变了的事件
+3.播放量不超过100次的视频的相关调查
+4.村上与松子明年的运势占卜]]></description>
             <link>https://www.bilibili.com/video/av458222323</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av458222323</guid>
+            <pubDate>Mon, 19 Jan 1970 14:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【有机星期一】【中字】20201130【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
+4K清晰度测试
+欢迎大家选择4K清晰度观看
+本期卡片：
+1.月曜式的秋季绘画大赛
+2.日本的争论点
+3.调查了正在消失的东西的事件
+4.开始征集今年的汉字事件]]></description>
             <link>https://www.bilibili.com/video/av415590483</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av415590483</guid>
+            <pubDate>Mon, 19 Jan 1970 14:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

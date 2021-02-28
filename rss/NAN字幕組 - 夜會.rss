@@ -2,58 +2,89 @@
     <channel>
         <title><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></title>
         <description><![CDATA[NAN字幕組 - 夜會 - from Bilibili.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://franklai.github.io/torrent-rss/rss/NAN字幕組 - 夜會.rss</link>
         <generator>RSS for Node</generator>
         
+        <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【No.A Name】相叶学20210124]]></title>
+            <description><![CDATA[No.A Name
+相叶学20210124由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
+            <link>https://www.bilibili.com/video/av629482650</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av629482650</guid>
+            <pubDate>Mon, 19 Jan 1970 16:27:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【No.A Name】相叶学20210214]]></title>
+            <description><![CDATA[No.A Name
+相叶学20210214由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av886988950</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av886988950</guid>
+            <pubDate>Mon, 19 Jan 1970 16:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】相叶学20210207]]></title>
+            <description><![CDATA[No.A Name
+相叶学20210207由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av801902795</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av801902795</guid>
+            <pubDate>Mon, 19 Jan 1970 16:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】周日NINO20210131]]></title>
+            <description><![CDATA[No.A Name
+周日NINO20210131由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av544313360</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av544313360</guid>
+            <pubDate>Mon, 19 Jan 1970 16:19:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会20210128]]></title>
+            <description><![CDATA[No.A Name
+赏樱会20210128由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av331839625</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av331839625</guid>
+            <pubDate>Mon, 19 Jan 1970 16:19:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会20210204]]></title>
+            <description><![CDATA[No.A Name
+赏樱会20210204由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av929194643</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av929194643</guid>
+            <pubDate>Mon, 19 Jan 1970 16:12:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】周日NINO20210124]]></title>
+            <description><![CDATA[No.A Name
+周日NINO20210124由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av501723837</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av501723837</guid>
+            <pubDate>Mon, 19 Jan 1970 16:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】周日NINO20201220]]></title>
+            <description><![CDATA[No.A Name
+周日NINO20201220由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av714196334</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av714196334</guid>
+            <pubDate>Mon, 19 Jan 1970 16:05:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】赏樱会20210121]]></title>
+            <description><![CDATA[No.A Name
+赏樱会20210121由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av416528793</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av416528793</guid>
+            <pubDate>Mon, 19 Jan 1970 16:00:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【No.A Name】相叶学20210131]]></title>
+            <description><![CDATA[No.A Name
+相叶学20210131由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
             <link>https://www.bilibili.com/video/av971527624</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av971527624</guid>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】赏樱会20210114]]></title>
-            <link>https://www.bilibili.com/video/av544062098</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av544062098</guid>
+            <pubDate>Mon, 19 Jan 1970 15:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
