@@ -79,7 +79,7 @@ export default class BilibiliParser {
         description,
         url: link,
         guid: link,
-        date: new Date(created).toISOString(),
+        date: new Date(created * 1000).toISOString(),
       });
     }
 
