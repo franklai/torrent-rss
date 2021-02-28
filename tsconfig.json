@@ -1,8 +1,14 @@
 {
-    "compilerOptions": {
-        "outDir": "./built",
-        "allowJs": true,
-        "target": "es5"
-    },
-    "include": ["./src/**/*"]
+  "compilerOptions": {
+    "outDir": "./built",
+
+    "lib": ["es2020"],
+    "module": "commonjs",
+    "target": "es2020",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
 }
