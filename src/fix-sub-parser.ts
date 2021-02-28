@@ -59,7 +59,7 @@ export default class FixSubParser {
         description: '',
         url: link,
         guid: link,
-        date: '2021-02-28T03:03:03.003Z'
+        date: '2021-02-28T03:03:03.003Z',
       });
     }
 
