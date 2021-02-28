@@ -9,19 +9,22 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: '12'
+          node-version: '14'
       - uses: pnpm/action-setup@v1.2.1
         with:
           version: 5.13.5
           run_install: true
 
       - name: Build
-        run: node index.js
+        run: pnpm run build
+
+      - name: Generate RSS
+        run: pnpm run rss
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
