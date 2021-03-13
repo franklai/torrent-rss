@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210308【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.在雪国询问了个人新闻事件
+2.回应观众的调查委托事件
+3.调查了各种各样领域的最尖端事件
+4.讨厌的上司的特征排行榜事件]]></description>
+            <link>https://www.bilibili.com/video/av802035085</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av802035085</guid>
+            <pubDate>Sat, 13 Mar 2021 12:05:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210301【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -110,18 +122,6 @@
             <link>https://www.bilibili.com/video/av373211688</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av373211688</guid>
             <pubDate>Mon, 21 Dec 2020 10:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20201207【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
-本期卡片：
-1.向行人询问今年的汉字的事件
-2.你住的那个街区改变了的事件
-3.播放量不超过100次的视频的相关调查
-4.村上与松子明年的运势占卜]]></description>
-            <link>https://www.bilibili.com/video/av458222323</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av458222323</guid>
-            <pubDate>Mon, 14 Dec 2020 15:56:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
