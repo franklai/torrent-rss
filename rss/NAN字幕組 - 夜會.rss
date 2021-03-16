@@ -7,6 +7,14 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【No.A Name】赏樱会20210218]]></title>
+            <description><![CDATA[No.A Name
+赏樱会20210218由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
+            <link>https://www.bilibili.com/video/av757189093</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av757189093</guid>
+            <pubDate>Tue, 16 Mar 2021 03:24:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【No.A Name】周日NINO20210221]]></title>
             <description><![CDATA[No.A Name
 周日NINO20210221由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
@@ -77,14 +85,6 @@
             <link>https://www.bilibili.com/video/av714196334</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av714196334</guid>
             <pubDate>Fri, 12 Feb 2021 10:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【No.A Name】赏樱会20210121]]></title>
-            <description><![CDATA[No.A Name
-赏樱会20210121由 No.A Name荣誉出品。欢迎点击我们wb：http://weibo.com/arashinan 查看最新作品讯息。登录博客：http://arashinan.lofter.com/ 博客资源区提供下载 资源区设密为字幕组结成日（提示首个资源分享日）请在24小时内删除 禁止二次转载。测试Q群： 129716509 字幕组火热招募中，欢迎大家加入~]]></description>
-            <link>https://www.bilibili.com/video/av416528793</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av416528793</guid>
-            <pubDate>Tue, 09 Feb 2021 03:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
