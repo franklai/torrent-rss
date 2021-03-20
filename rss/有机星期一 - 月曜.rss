@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210315【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.调查了大街上的人不再干的事情
+2.调查全国地方问题的事件
+3.调查了观众烦恼的事件
+4.村上、松子一起玩P图软件]]></description>
+            <link>https://www.bilibili.com/video/av502231806</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av502231806</guid>
+            <pubDate>Sat, 20 Mar 2021 11:51:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210308【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -111,17 +123,6 @@
             <link>https://www.bilibili.com/video/av671019655</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av671019655</guid>
             <pubDate>Mon, 11 Jan 2021 10:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20201214【小分队】]]></title>
-            <description><![CDATA[本期卡片：
-1.2020年的重大个人新闻事件
-2.2020年月曜式新闻的相关调查事件
-3.石原良纯的贺年卡问题事件
-4.做良纯桑想做的事环节]]></description>
-            <link>https://www.bilibili.com/video/av373211688</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av373211688</guid>
-            <pubDate>Mon, 21 Dec 2020 10:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
