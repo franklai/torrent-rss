@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210322【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.在雪国询问个人新闻事件
+2.月曜式关于街区安利的调查
+3.做了谁都没做过的调查事件Part13
+4.准备了心理测试事件]]></description>
+            <link>https://www.bilibili.com/video/av929792822</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av929792822</guid>
+            <pubDate>Sat, 27 Mar 2021 11:56:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210315【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -109,20 +121,6 @@
             <link>https://www.bilibili.com/video/av756166682</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av756166682</guid>
             <pubDate>Sun, 17 Jan 2021 10:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210101-SP【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
-本期卡片：
-1.2021年的日本大问题事件
-2.非常可疑的魔术师GO的新春魔术秀
-3.桐谷桑雇佣了保洁事件
-4.向行人询问了今年的抱负事件
-5.新春喜事直播事件
-6.音乐结姐姐 踢拳业余级比赛出场事件]]></description>
-            <link>https://www.bilibili.com/video/av671019655</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av671019655</guid>
-            <pubDate>Mon, 11 Jan 2021 10:00:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
