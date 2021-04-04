@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210330【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片： 
+1.月曜式值得安利的街道调查
+2.学习各种骚扰知识
+3.Homo惠桑想出外景的事件
+4.有让谁都能变成芭比玩偶的软件]]></description>
+            <link>https://www.bilibili.com/video/av247449920</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av247449920</guid>
+            <pubDate>Sat, 03 Apr 2021 13:47:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210322【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -110,17 +122,6 @@
             <link>https://www.bilibili.com/video/av416403776</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av416403776</guid>
             <pubDate>Sun, 31 Jan 2021 13:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210111【小分队】]]></title>
-            <description><![CDATA[【本期为过去放送过的片段合集】
-本期卡片：
-1.介绍围绕23区的问题事件
-2.东京23区的小知识事件
-3.月曜式首都圈线路调查事件]]></description>
-            <link>https://www.bilibili.com/video/av756166682</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av756166682</guid>
-            <pubDate>Sun, 17 Jan 2021 10:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
