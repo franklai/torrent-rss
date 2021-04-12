@@ -7,6 +7,17 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210405 9周年400期纪念回【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.回首往事竟有此事的vtr事件
+2.关于调查「以前的企划和人物之后怎么样了」事件
+3.村上相关的10年调查事件]]></description>
+            <link>https://www.bilibili.com/video/av545082289</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av545082289</guid>
+            <pubDate>Sun, 11 Apr 2021 15:28:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210330【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片： 
@@ -109,19 +120,6 @@
             <link>https://www.bilibili.com/video/av586601220</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av586601220</guid>
             <pubDate>Sun, 07 Feb 2021 15:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210125【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi/
-【本期为过去放送过的片段合集】
-本期卡片：
-1.调查街道行人的工作事件
-2.调查了各个职业的人对客户的反向抱怨事件
-3.日本的争论点事件
-4.雪国的个人新闻采访事件]]></description>
-            <link>https://www.bilibili.com/video/av416403776</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av416403776</guid>
-            <pubDate>Sun, 31 Jan 2021 13:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
