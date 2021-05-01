@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210426【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.向街上的人询问个人新闻事件
+2.调查了各种各样平均值的事件
+3.尝试着做了谁都没做过的调查事件Part 14
+4.准备了心理测试]]></description>
+            <link>https://www.bilibili.com/video/av417812557</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av417812557</guid>
+            <pubDate>Sat, 01 May 2021 10:00:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210412【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -108,18 +120,6 @@
             <link>https://www.bilibili.com/video/av374271065</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av374271065</guid>
             <pubDate>Sat, 20 Feb 2021 10:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210208【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.日本的小争论点事件
-2.调查了播放次数小于100的视频事件
-3.调查了路人的工作事件
-4.元旦SP没有讲完的问题]]></description>
-            <link>https://www.bilibili.com/video/av246671836</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av246671836</guid>
-            <pubDate>Sat, 13 Feb 2021 13:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
