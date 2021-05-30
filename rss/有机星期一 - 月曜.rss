@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210524【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.调查了路人工作的事情
+2.调查了全国的○○问题
+3.调查了观众的烦恼事件
+4.准备了AI宠物机器人]]></description>
+            <link>https://www.bilibili.com/video/av845765087</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av845765087</guid>
+            <pubDate>Sat, 29 May 2021 16:29:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210510【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -111,17 +123,6 @@
             <link>https://www.bilibili.com/video/av802035085</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av802035085</guid>
             <pubDate>Sat, 13 Mar 2021 12:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210301【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.调查大街上的人到底耳机里在听什么事件
-2.调查了生活小妙招事件
-3.为因新冠而经营困难的观光地应援事件]]></description>
-            <link>https://www.bilibili.com/video/av417099803</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av417099803</guid>
-            <pubDate>Sun, 07 Mar 2021 10:30:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
