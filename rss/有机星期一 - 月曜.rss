@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210614【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.在注意防范的前提下进行街头采访的事件
+2.询问了一直以来受到照顾的餐馆的近况
+3.做了谁都没做过的调查事件 Part16
+4.为村上和松子介绍最新AI机器人的事件]]></description>
+            <link>https://www.bilibili.com/video/av206181691</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av206181691</guid>
+            <pubDate>Sun, 20 Jun 2021 08:59:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210607【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 因新冠的锦集SP
@@ -110,18 +122,6 @@
             <link>https://www.bilibili.com/video/av247449920</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av247449920</guid>
             <pubDate>Sat, 03 Apr 2021 13:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210322【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.在雪国询问个人新闻事件
-2.月曜式关于街区安利的调查
-3.做了谁都没做过的调查事件Part13
-4.准备了心理测试事件]]></description>
-            <link>https://www.bilibili.com/video/av929792822</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av929792822</guid>
-            <pubDate>Sat, 27 Mar 2021 11:56:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
