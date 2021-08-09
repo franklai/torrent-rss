@@ -7,6 +7,19 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210802【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.采访炎炎夏日外出的人们
+2.BBQ川柳
+3.月曜式超热地点大调查
+4.吃刨冰时导致头痛的应对法
+5.向街上行人打听他们的恐怖经验]]></description>
+            <link>https://www.bilibili.com/video/av249720583</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av249720583</guid>
+            <pubDate>Sun, 08 Aug 2021 13:23:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210726【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 1.调查街上行人耳机在放什么的事件
@@ -109,18 +122,6 @@
             <link>https://www.bilibili.com/video/av418576952</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av418576952</guid>
             <pubDate>Mon, 07 Jun 2021 13:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210524【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.调查了路人工作的事情
-2.调查了全国的○○问题
-3.调查了观众的烦恼事件
-4.准备了AI宠物机器人]]></description>
-            <link>https://www.bilibili.com/video/av845765087</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av845765087</guid>
-            <pubDate>Sat, 29 May 2021 16:29:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
