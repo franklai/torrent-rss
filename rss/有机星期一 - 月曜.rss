@@ -7,6 +7,17 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210816【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.音乐结姐姐成为职业踢拳选手之路事件
+2.介绍街头采访间隙吃过的小吃事件
+3.2021年上半年流行语排名事件]]></description>
+            <link>https://www.bilibili.com/video/av890067492</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av890067492</guid>
+            <pubDate>Sun, 22 Aug 2021 10:30:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210809【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -111,18 +122,6 @@
             <link>https://www.bilibili.com/video/av206181691</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av206181691</guid>
             <pubDate>Sun, 20 Jun 2021 08:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210607【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-因新冠的锦集SP
-本期卡片：
-1.向街上的行人打听个人的新闻事件
-2.月曜式的自由研究
-3.回应了观众的调查委托的事件]]></description>
-            <link>https://www.bilibili.com/video/av716009898</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av716009898</guid>
-            <pubDate>Fri, 11 Jun 2021 16:51:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
