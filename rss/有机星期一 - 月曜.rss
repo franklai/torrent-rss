@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210830【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.看看行人们的大宝贝的环节
+2.埼玉县迎来了150周年的环节
+3.请行人介绍有趣的小伙伴的环节
+4.说起秋天会想到的食物排行榜环节]]></description>
+            <link>https://www.bilibili.com/video/av975253932</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av975253932</guid>
+            <pubDate>Sun, 05 Sep 2021 10:30:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210823【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -111,17 +123,6 @@
             <link>https://www.bilibili.com/video/av888912316</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av888912316</guid>
             <pubDate>Sun, 04 Jul 2021 10:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210621【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.调查全国当地问题的环节
-2.调查了拥有特殊才能的人们的事件
-3.让各种各样的人画了人生图表的事件]]></description>
-            <link>https://www.bilibili.com/video/av803814280</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av803814280</guid>
-            <pubDate>Sun, 27 Jun 2021 10:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
