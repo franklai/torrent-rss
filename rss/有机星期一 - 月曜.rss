@@ -7,6 +7,19 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20210913【小分队】]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+本期卡片：
+1.向行人询问家乡的骄傲事件
+2.听听观众们的烦恼的事件
+3.全国当地问题事件
+4.选手村的公寓开始出售的事件
+5.格陵兰观测史上首次降雨的事件]]></description>
+            <link>https://www.bilibili.com/video/av675567877</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av675567877</guid>
+            <pubDate>Mon, 20 Sep 2021 10:30:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20210906【小分队】]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 本期卡片：
@@ -110,19 +123,6 @@
             <link>https://www.bilibili.com/video/av804220327</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av804220327</guid>
             <pubDate>Sun, 18 Jul 2021 10:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210705【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.询问路人的骄傲事件
-2.向各种职业的人询问对顾客的反向投诉事件
-3.调查了新冠背后的新闻事件
-4.世界上最能飞的纸飞机事件
-5.令人震撼的松子吃意面的方法]]></description>
-            <link>https://www.bilibili.com/video/av419051060</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av419051060</guid>
-            <pubDate>Sun, 11 Jul 2021 10:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
