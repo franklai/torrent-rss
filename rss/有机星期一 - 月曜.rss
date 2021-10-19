@@ -7,6 +7,19 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20211011【小分队】]]></title>
+            <description><![CDATA[网络
+本期卡片：
+1.调查了全国当地问题的事件
+2.月曜夜素人大赏
+3.时隔八个月去见了桐谷先生的事件
+4.魔术师GO给我们带来新作品的事件
+5.音乐结姐姐职业踢拳之路]]></description>
+            <link>https://www.bilibili.com/video/av463743736</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av463743736</guid>
+            <pubDate>Mon, 18 Oct 2021 15:38:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20211004【小分队】]]></title>
             <description><![CDATA[本期卡片：
 1.向行人询问最近吃过的美食的事件
@@ -113,17 +126,6 @@
             <link>https://www.bilibili.com/video/av762027026</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av762027026</guid>
             <pubDate>Sun, 01 Aug 2021 12:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210719【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-1.询问路人的人生金牌事件
-2.调查了观众烦恼的事件
-3.调查了全国地方问题的事件
-4.宠物名字的排行榜事件]]></description>
-            <link>https://www.bilibili.com/video/av674313821</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av674313821</guid>
-            <pubDate>Sat, 24 Jul 2021 10:00:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
