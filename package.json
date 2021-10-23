@@ -29,7 +29,11 @@
       "typescript",
       "plugin:unicorn/recommended",
       "plugin:prettier/recommended"
-    ]
+    ],
+    "rules": {
+      "unicorn/prefer-node-protocol": "off",
+      "unicorn/prefer-module": "off"
+    }
   },
   "prettier": {
     "arrowParens": "always",
