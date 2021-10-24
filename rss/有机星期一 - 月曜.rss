@@ -7,6 +7,14 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20211018【小分队】SP]]></title>
+            <description><![CDATA[https://www.ntv.co.jp/yofukashi
+大感谢！Jaguar桑全1小时SP！]]></description>
+            <link>https://www.bilibili.com/video/av378848460</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av378848460</guid>
+            <pubDate>Sat, 23 Oct 2021 14:18:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20211011【小分队】]]></title>
             <description><![CDATA[网络
 本期卡片：
@@ -115,17 +123,6 @@
             <link>https://www.bilibili.com/video/av249720583</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av249720583</guid>
             <pubDate>Sun, 08 Aug 2021 13:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210726【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-1.调查街上行人耳机在放什么的事件
-2.介绍了各种生活小技巧的事件
-3.做了谁都没做过的调查事件 Part17
-4.准备了治愈松子的最新AI机器人事件]]></description>
-            <link>https://www.bilibili.com/video/av762027026</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av762027026</guid>
-            <pubDate>Sun, 01 Aug 2021 12:26:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
