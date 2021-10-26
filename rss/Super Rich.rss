@@ -6,17 +6,5 @@
         <generator>RSS for Node</generator>
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SuperRich.E02.720p.FIX字幕侠]]></title>
-            <link>magnet:?xt=urn:btih:893F27C2D8C76EDE4DEE1692B5F54FDFF52B4824&amp;dn=SuperRich.E02.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
-            <guid isPermaLink="false">magnet:?xt=urn:btih:893F27C2D8C76EDE4DEE1692B5F54FDFF52B4824&amp;dn=SuperRich.E02.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
-            <pubDate>Sun, 28 Feb 2021 03:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SuperRich.E01.720p.FIX字幕侠]]></title>
-            <link>magnet:?xt=urn:btih:9D7C22FB0A7F9D480860B8F0142C9FE7E6466942&amp;dn=SuperRich.E01.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</link>
-            <guid isPermaLink="false">magnet:?xt=urn:btih:9D7C22FB0A7F9D480860B8F0142C9FE7E6466942&amp;dn=SuperRich.E01.720p.FIX%e5%ad%97%e5%b9%95%e4%be%a0&amp;tr=http%3a%2f%2ft.nyaatracker.com%2fannounce&amp;tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&amp;tr=http%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce</guid>
-            <pubDate>Sun, 28 Feb 2021 03:03:03 GMT</pubDate>
-        </item>
     </channel>
 </rss>
