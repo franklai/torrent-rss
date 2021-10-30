@@ -7,6 +7,18 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【有机星期一】【中字】20211025【小分队】]]></title>
+            <description><![CDATA[网络
+本期卡片：
+1.向街上行人询问家乡骄傲的事件
+2.消灭行人的烦恼，试着解决行人未解决之事的事件
+3.向大家介绍各行各业高水准模范的事件
+4.心理测试]]></description>
+            <link>https://www.bilibili.com/video/av848838558</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av848838558</guid>
+            <pubDate>Sat, 30 Oct 2021 03:00:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【有机星期一】【中字】20211018【小分队】SP]]></title>
             <description><![CDATA[https://www.ntv.co.jp/yofukashi
 大感谢！Jaguar桑全1小时SP！]]></description>
@@ -110,19 +122,6 @@
             <link>https://www.bilibili.com/video/av207274509</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av207274509</guid>
             <pubDate>Sun, 15 Aug 2021 11:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机星期一】【中字】20210802【小分队】]]></title>
-            <description><![CDATA[https://www.ntv.co.jp/yofukashi
-本期卡片：
-1.采访炎炎夏日外出的人们
-2.BBQ川柳
-3.月曜式超热地点大调查
-4.吃刨冰时导致头痛的应对法
-5.向街上行人打听他们的恐怖经验]]></description>
-            <link>https://www.bilibili.com/video/av249720583</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av249720583</guid>
-            <pubDate>Sun, 08 Aug 2021 13:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
