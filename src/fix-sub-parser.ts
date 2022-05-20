@@ -12,7 +12,11 @@ export default class FixSubParser {
   }
 
   async getHtml(): Promise<string> {
-    const resp = await got(this.url);
+    const resp = await got(this.url, {
+      https: {
+        rejectUnauthorized: false,
+      },
+    });
     return resp.body;
   }
 
