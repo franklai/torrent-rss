@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "got": "^11.8.2",
+    "got": "^11.8.6",
     "he": "^1.2.0",
     "rss": "^1.2.2"
   },
@@ -11,18 +11,18 @@
     "watch": "npx tsc --watch"
   },
   "devDependencies": {
-    "@types/he": "^1.1.2",
-    "@types/node": "^16.11.4",
+    "@types/he": "^1.2.3",
+    "@types/node": "^16.18.96",
     "@types/rss": "^0.0.29",
-    "@typescript-eslint/eslint-plugin": "^5.1.0",
-    "@typescript-eslint/parser": "^5.1.0",
-    "eslint": "^8.1.0",
-    "eslint-config-prettier": "^8.3.0",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^8.10.0",
     "eslint-config-typescript": "^3.0.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-unicorn": "^37.0.1",
-    "prettier": "^2.4.1",
-    "typescript": "^4.4.4"
+    "prettier": "^2.8.8",
+    "typescript": "^4.9.5"
   },
   "eslintConfig": {
     "extends": [
