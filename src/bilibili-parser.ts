@@ -3,23 +3,19 @@ import RSS from 'rss';
 
 interface MyVideoItem {
   title: string;
-  description: string;
   created: number;
   link: string;
 }
 
 interface ApiVideoItem {
   title: string;
-  description: string;
-  created: number;
+  ctime: number;
   aid: number;
 }
 
 interface ApiResponse {
   data: {
-    list: {
-      vlist: ApiVideoItem[];
-    };
+    archives: ApiVideoItem[];
   };
 }
 
@@ -46,7 +42,8 @@ export default class BilibiliParser {
   async getJsonList(): Promise<ApiResponse> {
     const id = this.getId();
     // https://api.bilibili.com/x/space/arc/search?mid=138832847&ps=10&pn=1
-    const url = `https://api.bilibili.com/x/space/arc/search?mid=${id}&ps=10&pn=1`;
+    // https://api.bilibili.com/x/series/recArchivesByKeywords?mid=3493298094213582&keywords=
+    const url = `https://api.bilibili.com/x/series/recArchivesByKeywords?mid=${id}&keywords=`;
     console.log(`url: ${url}`);
     const resp: ApiResponse = await got(url).json();
     return resp;
@@ -54,13 +51,15 @@ export default class BilibiliParser {
 
   parseLinks(response: ApiResponse): MyVideoItem[] {
     // https://www.bilibili.com/video/av96617447
-    const videos = response.data.list.vlist;
+
+    console.log(response);
+
+    const videos = response.data.archives;
     return videos.map((item) => {
       return {
         link: `https://www.bilibili.com/video/av${item.aid}`,
         title: item.title,
-        description: item.description,
-        created: item.created,
+        created: item.ctime,
       };
     });
   }
@@ -73,12 +72,14 @@ export default class BilibiliParser {
     };
     const feed = new RSS(options);
 
-    for (const { link, title, description, created } of linksAndNames) {
+    console.log(linksAndNames)
+
+    for (const { link, title, created } of linksAndNames) {
       feed.item({
         title,
-        description,
         url: link,
         guid: link,
+        description: '',
         date: new Date(created * 1000).toISOString(),
       });
     }
