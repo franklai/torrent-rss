@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】为何这季新番一股浓浓的里... 2025年01月20日20点场]]></title>
+            <link>https://www.bilibili.com/video/av113864951728512</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av113864951728512</guid>
+            <pubDate>Tue, 21 Jan 2025 07:06:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【直播回放】新番动画尬聊 2025年01月13日20点场]]></title>
             <link>https://www.bilibili.com/video/av113826313798965</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113826313798965</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113419483287602</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113419483287602</guid>
             <pubDate>Sun, 03 Nov 2024 14:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【直播回放】【周末？动画尬聊】 2024年10月28日20点场]]></title>
-            <link>https://www.bilibili.com/video/av113389133170478</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113389133170478</guid>
-            <pubDate>Tue, 29 Oct 2024 06:49:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
