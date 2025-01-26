@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】《转生之我是大祥，乐队又要散该怎么办》 2025年01月25日19点场]]></title>
+            <link>https://www.bilibili.com/video/av113893422796455</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av113893422796455</guid>
+            <pubDate>Sun, 26 Jan 2025 07:54:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【直播回放】为何这季新番一股浓浓的里... 2025年01月20日20点场]]></title>
             <link>https://www.bilibili.com/video/av113864951728512</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113864951728512</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113428861552171</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113428861552171</guid>
             <pubDate>Tue, 05 Nov 2024 07:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地错时间线.7】 Lv.6艾丝首次团战战力无双/ 兔子终被抓【JB培训班】第一期正式开启[第20天- 第31天]【不只是聊动漫No. 230】]]></title>
-            <link>https://www.bilibili.com/video/av113419483287602</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113419483287602</guid>
-            <pubDate>Sun, 03 Nov 2024 14:28:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
