@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【2025冬季新番八卦】绅士们不需要视力，绅士们需要的是团结！【不只是聊动漫No.240】]]></title>
+            <link>https://www.bilibili.com/video/av113978550326337</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av113978550326337</guid>
+            <pubDate>Mon, 10 Feb 2025 08:08:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【直播回放】【新番尬聊】母鸡卡+全修+其他... 2025年02月02日19点场]]></title>
             <link>https://www.bilibili.com/video/av113937664249731</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113937664249731</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113510717658985</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113510717658985</guid>
             <pubDate>Tue, 19 Nov 2024 17:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【直播回放】【周一动画尬聊】 2024年11月11日19点场]]></title>
-            <link>https://www.bilibili.com/video/av113467465928111</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113467465928111</guid>
-            <pubDate>Tue, 12 Nov 2024 02:38:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
