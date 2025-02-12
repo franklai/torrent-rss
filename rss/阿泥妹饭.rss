@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】【新番尬聊】你知道我这五年都是怎么过的吗 2025年02月11日20点场]]></title>
+            <link>https://www.bilibili.com/video/av113988532830741</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av113988532830741</guid>
+            <pubDate>Wed, 12 Feb 2025 03:34:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【2025冬季新番八卦】绅士们不需要视力，绅士们需要的是团结！【不只是聊动漫No.240】]]></title>
             <link>https://www.bilibili.com/video/av113978550326337</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113978550326337</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113531940766731</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113531940766731</guid>
             <pubDate>Sat, 23 Nov 2024 21:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胆大党彩蛋30合1】螃蟹为什么殴打路标？赛博星人为什么特爱香蕉？这些改编细节你都发现了吗？ 【不只是聊动漫No.232】]]></title>
-            <link>https://www.bilibili.com/video/av113510717658985</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113510717658985</guid>
-            <pubDate>Tue, 19 Nov 2024 17:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
