@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】【新番尬聊】派阀大战补充，本周好事成双 2025年02月17日20点场]]></title>
+            <link>https://www.bilibili.com/video/av114022691114641</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av114022691114641</guid>
+            <pubDate>Tue, 18 Feb 2025 03:47:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[给女神发卡必付出代价！派阀大战 - 时间线详解（上）【不只是聊动漫No.241】]]></title>
             <link>https://www.bilibili.com/video/av114018614253901</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av114018614253901</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113546788603501</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113546788603501</guid>
             <pubDate>Tue, 26 Nov 2024 02:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【直播回放】测试+聊天+地错？ 2024年11月24日20点场]]></title>
-            <link>https://www.bilibili.com/video/av113538484012279</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113538484012279</guid>
-            <pubDate>Sun, 24 Nov 2024 19:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
