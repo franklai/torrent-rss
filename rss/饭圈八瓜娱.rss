@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【未成年的主张】日本“王冰冰”的天台告白：“我保护你”]]></title>
+            <link>https://www.bilibili.com/video/av114086595530825</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av114086595530825</guid>
+            <pubDate>Sat, 01 Mar 2025 10:02:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[原来天台还可以用来告白]]></title>
             <link>https://www.bilibili.com/video/av114063275267370</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av114063275267370</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113690066034483</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113690066034483</guid>
             <pubDate>Sat, 21 Dec 2024 09:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[月曜名场面：一生嘴硬的日本人们]]></title>
-            <link>https://www.bilibili.com/video/av113688438641833</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113688438641833</guid>
-            <pubDate>Sat, 21 Dec 2024 02:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
