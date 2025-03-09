@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[我独自升级动画改编细节全解读，A1科技狠活真是没少放  ！ 【不只是聊动漫No.243】]]></title>
+            <link>https://www.bilibili.com/video/av114127364169438</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av114127364169438</guid>
+            <pubDate>Sat, 08 Mar 2025 14:57:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【直播回放】2025年一月新番OP/ED残酷二选一 2025年03月02日19点场]]></title>
             <link>https://www.bilibili.com/video/av114109563539229</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av114109563539229</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113620876794420</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113620876794420</guid>
             <pubDate>Mon, 09 Dec 2024 04:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【直播回放】地错时间线.9 内容补充&瞎聊]]></title>
-            <link>https://www.bilibili.com/video/av113604401631057</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113604401631057</guid>
-            <pubDate>Fri, 06 Dec 2024 06:26:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
