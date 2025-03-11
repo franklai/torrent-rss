@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】【新番尬聊】地错+结局预测大会 2025年03月09日20点场]]></title>
+            <link>https://www.bilibili.com/video/av114138302907807</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av114138302907807</guid>
+            <pubDate>Mon, 10 Mar 2025 21:05:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[我独自升级动画改编细节全解读，A1科技狠活真是没少放  ！ 【不只是聊动漫No.243】]]></title>
             <link>https://www.bilibili.com/video/av114127364169438</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av114127364169438</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113628376203896</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113628376203896</guid>
             <pubDate>Tue, 10 Dec 2024 12:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地错时间线.10】速通！战争游戏一回目/精灵店娘摧毁黄金赌场 [第54天 - 第69天]【不只是聊动漫No.234】]]></title>
-            <link>https://www.bilibili.com/video/av113620876794420</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113620876794420</guid>
-            <pubDate>Mon, 09 Dec 2024 04:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
