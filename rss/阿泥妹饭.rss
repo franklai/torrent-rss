@@ -7,6 +7,12 @@
         
         <atom:link href="https://franklai.github.io/torrent-rss/" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【直播回放】新番尬聊：Mujica选择弹幕最多的打法 2025年03月18日20点场]]></title>
+            <link>https://www.bilibili.com/video/av114187745363605</link>
+            <guid isPermaLink="false">https://www.bilibili.com/video/av114187745363605</guid>
+            <pubDate>Wed, 19 Mar 2025 07:09:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【地城邂逅-第五季】等风来！派阀大战沙盘推演 - 全程详解（下）【不只是聊动漫No.244】]]></title>
             <link>https://www.bilibili.com/video/av114177981226210</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av114177981226210</guid>
@@ -119,12 +125,6 @@
             <link>https://www.bilibili.com/video/av113711926809725</link>
             <guid isPermaLink="false">https://www.bilibili.com/video/av113711926809725</guid>
             <pubDate>Wed, 25 Dec 2024 06:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[病娇，异端，一见钟情！邂逅比升级还要快！ 【地城邂逅】贝尔女团Top20详解（上）【不只是聊动漫No.235】]]></title>
-            <link>https://www.bilibili.com/video/av113668456976573</link>
-            <guid isPermaLink="false">https://www.bilibili.com/video/av113668456976573</guid>
-            <pubDate>Tue, 17 Dec 2024 13:47:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
